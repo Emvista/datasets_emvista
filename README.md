@@ -4,7 +4,7 @@
 
 ### Preprocessing of data
 
-#### Ner task:
+#### 1- Named Entity Recognition task:
 <p>Our data from the NER task were adapted for use in BIO format with tsv.</p>
 
 ```
