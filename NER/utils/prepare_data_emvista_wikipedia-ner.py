@@ -29,6 +29,9 @@ def prepare_data(data):
                 else:
                     list_labels.append("O")
 
+                if list_elements[-1] in ["?", "!", "."] and list_labels[-1] == "O":
+                    list_elements.append("")
+                    list_labels.append("")
         if data[row] == '\n':
             
             list_sentences.append(' '.join(list_elements))
@@ -36,6 +39,10 @@ def prepare_data(data):
             assert len(list_elements) == len(list_labels)
             
             list_labels.clear(), list_elements.clear()
+
+    if len(list_sentences) == 0:
+        list_sentences.append(' '.join(list_elements))
+        list_labels_by_sentences.append(' '.join(list_labels))
 
 
     list_elements_file = []

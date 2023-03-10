@@ -25,6 +25,7 @@ de	O
 la	O
 Garonne	B-Location
 .	O
+
 Boeschepe	B-Location
 est	O
 une	O
@@ -44,6 +45,7 @@ Hauts	B-Location
 de	I-Location
 France	I-Location
 .	O
+
 Alessandro	B-Person
 Vanotti	I-Person
 ,	O
@@ -67,6 +69,7 @@ de	O
 à	O
 2016	B-Time
 .	O
+
 Dormagen	B-Location
 ,	O
 est	O
@@ -86,6 +89,7 @@ du	I-Location
 Nord	I-Location
 Westphalie	I-Location
 .	O
+
 Elle	O
 est	O
 située	O
@@ -102,6 +106,7 @@ Cologne	B-Location
 et	O
 Mönchengladbach	B-Location
 .	O
+
 Le	O
 vivier	B-Facility
 des	I-Facility
@@ -125,6 +130,7 @@ Sainte	B-Location
 -	I-Location
 Maxime	I-Location
 .	O
+
 David	B-Person
 Bolland	I-Person
 ,	O
@@ -155,6 +161,7 @@ sur	O
 glace	O
 canadien	B-Nation
 .	O
+
 John	B-Person
 Guedel	I-Person
 est	O
@@ -190,6 +197,7 @@ Angeles	I-Location
 Californie	B-Location
 )	O
 .	O
+
 L	O
 '	O
 allée	B-Location
@@ -207,6 +215,7 @@ Paris	B-Location
 en	O
 France	B-Location
 .	O
+
 Leslie	B-Person
 Austin	I-Person
 est	O
@@ -231,6 +240,7 @@ en	O
 mai	B-Time
 1974	I-Time
 .	O
+
 Florentinus	B-Person
 Marinus	I-Person
 «	O
@@ -256,6 +266,7 @@ homme	B-AdministrationFunction
 politique	I-AdministrationFunction
 néerlandais	B-Nation
 .	O
+
 Les	O
 récepteurs	O
 métabotropes	O
@@ -285,6 +296,7 @@ d	O
 événements	O
 intracellulaires	O
 .	O
+
 Les	O
 récepteurs	O
 de	O
@@ -300,6 +312,7 @@ ionotropes	O
 et	O
 métabotropes	O
 .	O
+
 Tous	O
 deux	O
 mettent	O
@@ -352,6 +365,7 @@ d	O
 ions	O
 )	O
 .	O
+
 Contrairement	O
 aux	O
 récepteurs	O
@@ -387,6 +401,7 @@ une	O
 cascade	O
 transductionnelle	O
 .	O
+
 En	O
 général	O
 ,	O
@@ -407,6 +422,7 @@ protéines	O
 G	O
 trimériques	O
 .	O
+
 L	O
 '	O
 activation	O
@@ -441,6 +457,7 @@ différentes	O
 protéines	O
 effectrices	O
 .	O
+
 Longtemps	O
 considérés	O
 comme	O
@@ -458,6 +475,7 @@ chez	O
 les	O
 plantes	O
 .	O
+
 L	B-Movie
 '	I-Movie
 Homme	I-Movie
@@ -477,6 +495,7 @@ sorti	O
 en	O
 1916	B-Time
 .	O
+
 Le	O
 canton	B-Location
 de	I-Location
@@ -498,6 +517,7 @@ la	O
 région	O
 Aquitaine	B-Location
 .	O
+
 Il	O
 a	O
 été	O
@@ -513,6 +533,7 @@ vigueur	O
 en	O
 2015	B-Time
 .	O
+
 Cet	O
 article	O
 tente	O
@@ -529,6 +550,7 @@ islamique	O
 par	O
 région	O
 .	O
+
 Pierre	B-Person
 de	I-Person
 Hauteclocque	I-Person
@@ -559,6 +581,7 @@ Toulon	B-Location
 Var	B-Location
 )	O
 .	O
+
 Cousin	O
 du	O
 maréchal	B-MilitariaFunction
@@ -571,6 +594,7 @@ de	O
 la	O
 Libération	B-Organization
 .	O
+
 La	O
 synthèse	O
 d	O
@@ -593,6 +617,7 @@ une	O
 structure	O
 définie	O
 .	O
+
 Międzyleś	B-Location
 (	O
 [	O
@@ -628,6 +653,7 @@ de	O
 la	O
 Pologne	B-Location
 .	O
+
 Ce	O
 village	O
 se	O
@@ -673,6 +699,7 @@ la	O
 Pologne	B-Location
 )	O
 .	O
+
 La	O
 circonscription	B-Location
 de	I-Location
@@ -706,6 +733,7 @@ du	O
 Parti	B-Organization
 conservateur	I-Organization
 .	O
+
 Le	O
 canton	B-Location
 de	I-Location
@@ -730,6 +758,7 @@ la	O
 région	O
 Aquitaine	B-Location
 .	O
+
 Il	O
 a	O
 été	O
@@ -745,6 +774,7 @@ vigueur	O
 en	O
 2015	B-Time
 .	O
+
 Kienersrüti	B-Location
 est	O
 une	O
@@ -768,6 +798,7 @@ administratif	I-Location
 de	I-Location
 Thoune	I-Location
 .	O
+
 Made	B-Movie
 in	I-Movie
 USA	I-Movie
@@ -786,6 +817,7 @@ sorti	O
 en	O
 1966	B-Time
 .	O
+
 Paravaejovis	B-Species
 galbus	I-Species
 est	O
@@ -799,6 +831,7 @@ famille	O
 des	O
 Vaejovidae	B-Species
 .	O
+
 Kay	B-Person
 Bluhm	I-Person
 (	O
@@ -822,6 +855,7 @@ course	O
 en	O
 ligne	O
 .	O
+
 Djibasso	B-Location
 est	O
 une	O
@@ -850,6 +884,7 @@ au	O
 Burkina	B-Location
 Faso	I-Location
 .	O
+
 William	B-Person
 Horwood	I-Person
 est	O
@@ -865,6 +900,7 @@ mai	I-Time
 à	O
 Oxford	B-Location
 .	O
+
 La	O
 rue	B-Location
 Lippmann	I-Location
@@ -880,6 +916,7 @@ Paris	I-Location
 en	O
 France	B-Location
 .	O
+
 Le	O
 fort	B-Facility
 de	I-Facility
@@ -916,6 +953,7 @@ Rhône	B-Location
 en	O
 France	B-Location
 .	O
+
 Les	O
 podia	O
 (	O
@@ -952,6 +990,7 @@ nutrition	O
 et	O
 respiration	O
 .	O
+
 Megan	B-Person
 Gale	I-Person
 est	O
@@ -966,6 +1005,7 @@ août	I-Time
 à	O
 Perth	B-Location
 .	O
+
 Honoré	B-Person
 Julien	I-Person
 Jean	I-Person
@@ -1006,6 +1046,7 @@ ville	O
 de	O
 Québec	B-Location
 .	O
+
 Rachel	B-Person
 Blanchard	I-Person
 est	O
@@ -1022,6 +1063,7 @@ Toronto	B-Location
 au	O
 Canada	B-Location
 .	O
+
 Le	B-Organization
 Temps	I-Organization
 qu	I-Organization
@@ -1049,6 +1091,7 @@ active	O
 depuis	O
 1981	B-Time
 .	O
+
 Michel	B-Person
 Chodkiewicz	I-Person
 (	O
@@ -1070,6 +1113,7 @@ connaisseur	O
 du	O
 soufisme	O
 .	O
+
 Un	O
 sous	O
 -	O
@@ -1085,6 +1129,7 @@ théorie	O
 des	O
 groupes	O
 .	O
+
 Dans	O
 cet	O
 article	O
@@ -1103,6 +1148,7 @@ d	O
 neutre	O
 e	O
 .	O
+
 Ego	B-Product
 Trip	I-Product
 est	O
@@ -1118,6 +1164,7 @@ sorti	O
 en	O
 1984	B-Time
 .	O
+
 L	O
 '	O
 album	O
@@ -1141,6 +1188,7 @@ au	O
 Billboard	O
 200	O
 .	O
+
 Netta	B-Location
 Pierwsza	I-Location
 est	O
@@ -1170,6 +1218,7 @@ voïvodie	B-Location
 de	I-Location
 Podlachie	I-Location
 .	O
+
 Clarence	B-Person
 Kolster	I-Person
 est	O
@@ -1189,6 +1238,7 @@ le	O
 mai	I-Time
 1972	I-Time
 .	O
+
 Élie	B-Person
 Cohen	I-Person
 est	O
@@ -1208,6 +1258,7 @@ Meknès	B-Location
 Maroc	B-Location
 )	O
 .	O
+
 Directeur	B-TransversalFunction
 de	I-TransversalFunction
 recherche	I-TransversalFunction
@@ -1259,6 +1310,7 @@ sur	O
 France	B-Media
 5	I-Media
 .	O
+
 Scott	B-Person
 Brayton	I-Person
 (	O
@@ -1301,6 +1353,7 @@ pilote	B-SportFunction
 automobile	I-SportFunction
 américain	B-Nation
 .	O
+
 La	O
 17e	B-Event
 étape	I-Event
@@ -1331,6 +1384,7 @@ de	O
 189	B-Measure
 km	I-Measure
 .	O
+
 Alfred	B-Person
 DesRochers	I-Person
 (	O
@@ -1359,6 +1413,7 @@ un	O
 poète	B-LitteratureFunction
 québécois	O
 .	O
+
 La	O
 République	O
 liégeoise	O
@@ -1391,6 +1446,7 @@ l	O
 invasion	O
 autrichienne	O
 .	O
+
 Bryant	B-Person
 Fryer	I-Person
 est	O
@@ -1415,6 +1471,7 @@ les	O
 années	B-Time
 1920	I-Time
 .	O
+
 Chu	B-Person
 Yo	I-Person
 -	I-Person
@@ -1439,6 +1496,7 @@ sud	B-Nation
 -	I-Nation
 coréen	I-Nation
 .	O
+
 Alain	B-Person
 Hir	I-Person
 (	O
@@ -1469,6 +1527,7 @@ Paris	B-Organization
 -	I-Organization
 Descartes	I-Organization
 .	O
+
 Il	O
 est	O
 l	O
@@ -1480,6 +1539,7 @@ pharmacie	O
 galénique	O
 moderne	O
 .	O
+
 Raymond	B-Person
 Le	I-Person
 Terrier	I-Person
@@ -1502,6 +1562,7 @@ homme	B-AdministrationFunction
 politique	I-AdministrationFunction
 français	B-Nation
 .	O
+
 La	O
 route	B-Location
 nationale	I-Location
@@ -1522,6 +1583,7 @@ Perche	I-Location
 au	O
 Mans	B-Location
 .	O
+
 À	O
 la	O
 suite	O
@@ -1550,6 +1612,7 @@ dans	O
 la	O
 Sarthe	B-Location
 .	O
+
 Gilles	B-Person
 Lussier	I-Person
 (	O
@@ -1570,6 +1633,7 @@ missionnaire	B-TransversalFunction
 et	O
 évêque	B-ReligionFunction
 .	O
+
 Il	O
 fut	O
 évêque	B-ReligionFunction
@@ -1582,6 +1646,7 @@ de	O
 à	O
 2015	B-Time
 .	O
+
 Mike	B-Person
 Novosad	I-Person
 (	O
@@ -1612,6 +1677,7 @@ canado	B-Nation
 -	O
 britannique	B-Nation
 .	O
+
 Doc	B-Product
 Martin	I-Product
 est	O
@@ -1646,6 +1712,7 @@ avril	I-Time
 sur	O
 TF1	B-Media
 .	O
+
 Le	O
 scénariste	B-MovieFunction
 Éric	B-Person
@@ -1667,6 +1734,7 @@ la	O
 saison	O
 1	O
 .	O
+
 Les	O
 épisodes	O
 suivants	O
@@ -1684,6 +1752,7 @@ auteurs	O
 de	O
 télévision	O
 .	O
+
 La	O
 pauvreté	O
 est	O
@@ -1728,6 +1797,7 @@ se	O
 développer	O
 normalement	O
 .	O
+
 La	O
 pauvreté	O
 réfère	O
@@ -1807,6 +1877,7 @@ l	O
 '	O
 éducation	O
 .	O
+
 Le	O
 terme	O
 «	O
@@ -1836,6 +1907,7 @@ et	O
 entre	O
 sociétés	O
 .	O
+
 Les	O
 sciences	O
 économiques	O
@@ -1862,6 +1934,7 @@ de	O
 la	O
 richesse	O
 .	O
+
 Les	O
 gouvernements	O
 ont	O
@@ -1925,6 +1998,7 @@ les	O
 pouvoirs	O
 existants	O
 .	O
+
 La	O
 pauvreté	O
 est	O
@@ -1954,6 +2028,7 @@ philosophiques	O
 et	O
 religieuses	O
 .	O
+
 Neuville	B-Location
 -	I-Location
 sur	I-Location
@@ -1978,6 +2053,7 @@ Hauts	B-Location
 de	I-Location
 France	I-Location
 .	O
+
 La	O
 gare	B-Facility
 de	I-Facility
@@ -1995,6 +2071,7 @@ canton	B-Location
 du	I-Location
 Jura	I-Location
 .	O
+
 Dámaso	B-Person
 Marte	I-Person
 Sabiñón	I-Person
@@ -2026,6 +2103,7 @@ majeure	I-Organization
 de	I-Organization
 baseball	I-Organization
 .	O
+
 Il	O
 évolue	O
 de	O
@@ -2033,6 +2111,7 @@ de	O
 à	O
 2010	B-Time
 .	O
+
 Il	O
 remporte	O
 deux	O
@@ -2059,6 +2138,7 @@ de	I-SportsTeam
 New	I-SportsTeam
 York	I-SportsTeam
 .	O
+
 Il	O
 participe	O
 aux	O
@@ -2070,6 +2150,7 @@ baseball	I-Event
 et	O
 2009	B-Time
 .	O
+
 Urbain	B-Person
 Olivier	I-Person
 ,	O
@@ -2096,6 +2177,7 @@ et	O
 romancier	B-LitteratureFunction
 suisse	B-Nation
 .	O
+
 Le	O
 Killi	B-Species
 Cap	B-Species
@@ -2116,6 +2198,7 @@ famille	O
 des	O
 Nothobranchiidae	B-Species
 .	O
+
 Originaire	O
 d	O
 '	O
@@ -2145,6 +2228,7 @@ plusieurs	O
 variétés	O
 différentes	O
 .	O
+
 Panzer	B-Product
 Dragoon	I-Product
 Orta	I-Product
@@ -2171,6 +2255,7 @@ Xbox	B-Product
 en	O
 2002	B-Time
 .	O
+
 Cinq	O
 années	O
 après	O
@@ -2192,6 +2277,7 @@ proposé	O
 aux	O
 fans	O
 .	O
+
 Panzer	B-Product
 Dragoon	I-Product
 Orta	I-Product
@@ -2225,6 +2311,7 @@ l	O
 action	O
 intense	O
 .	O
+
 Yvernaumont	B-Location
 est	O
 une	O
@@ -2242,6 +2329,7 @@ région	O
 Grand	B-Location
 Est	I-Location
 .	O
+
 L	O
 '	O
 Hotel	B-Organization
@@ -2266,6 +2354,7 @@ de	I-Location
 Gran	I-Location
 Canaria	I-Location
 .	O
+
 La	O
 19e	O
 étape	O
@@ -2291,6 +2380,7 @@ Escorial	I-Location
 et	O
 Avila	B-Location
 .	O
+
 Antti	B-Person
 -	I-Person
 Jussi	I-Person
@@ -2316,6 +2406,7 @@ hockey	O
 sur	O
 glace	O
 .	O
+
 Il	O
 évolue	O
 au	O
@@ -2324,6 +2415,7 @@ de	O
 défenseur	B-SportFunction
 ,	O
 .	O
+
 Le	O
 château	B-Facility
 de	I-Facility
@@ -2353,6 +2445,7 @@ Nouvelle	B-Location
 -	I-Location
 Aquitaine	I-Location
 .	O
+
 Schmalenberg	B-Location
 est	O
 une	O
@@ -2388,6 +2481,7 @@ l	O
 '	O
 Allemagne	B-Location
 .	O
+
 María	B-Person
 del	I-Person
 Rosario	I-Person
@@ -2401,6 +2495,7 @@ Mexico	B-Location
 ,	O
 Mexique	B-Location
 .	O
+
 Elle	O
 est	O
 une	O
@@ -2415,6 +2510,7 @@ la	I-Organization
 révolution	I-Organization
 démocratique	I-Organization
 .	O
+
 Elle	O
 fut	O
 Chef	B-Function
@@ -2454,6 +2550,7 @@ de	O
 2003	B-Time
 ,	O
 .	O
+
 L	O
 '	O
 équation	B-Method
@@ -2488,6 +2585,7 @@ champ	O
 de	O
 pesanteur	O
 .	O
+
 Le	O
 taxi	O
 -	O
@@ -2504,6 +2602,7 @@ inter	O
 -	O
 urbain	O
 .	O
+
 Selon	O
 les	O
 véhicules	O
@@ -2533,6 +2632,7 @@ ont	O
 été	O
 vendues	O
 .	O
+
 Ce	O
 mode	O
 de	O
@@ -2558,6 +2658,7 @@ l	O
 appelle	O
 louage	O
 .	O
+
 Toni	B-Person
 Blankenheim	I-Person
 né	O
@@ -2583,6 +2684,7 @@ opéra	O
 baryton	O
 allemand	B-Nation
 .	O
+
 Dans	O
 l	O
 '	O
@@ -2655,6 +2757,7 @@ et	O
 son	O
 client	O
 .	O
+
 Škoda	B-Product
 Octavia	I-Product
 est	O
@@ -2696,6 +2799,7 @@ de	O
 Volkswagen	B-Product
 Golf	I-Product
 .	O
+
 Maiara	B-Person
 Walsh	I-Person
 est	O
@@ -2747,6 +2851,7 @@ dans	O
 un	O
 organisme	O
 .	O
+
 Chaque	O
 fiche	O
 est	O
@@ -2779,6 +2884,7 @@ pourrait	O
 subir	O
 successivement	O
 .	O
+
 Au	O
 cours	O
 du	O
@@ -2856,6 +2962,7 @@ une	O
 fiche	O
 suiveuse	O
 .	O
+
 Les	O
 fiches	O
 suiveuses	O
@@ -2896,6 +3003,7 @@ jusqu	O
 son	O
 retour	O
 .	O
+
 Portail	O
 des	O
 sciences	O
@@ -2918,6 +3026,7 @@ sur	O
 plateau	O
 modulable	O
 .	O
+
 L	O
 '	O
 excès	O
@@ -2931,6 +3040,7 @@ est	O
 appelée	O
 cystathioninurie	O
 .	O
+
 La	O
 cystathionine	O
 est	O
@@ -2943,6 +3053,7 @@ de	O
 la	O
 cystéine	O
 .	O
+
 Il	O
 est	O
 produit	O
@@ -2979,6 +3090,7 @@ gamma	O
 -	O
 lyase	O
 .	O
+
 Portail	O
 de	O
 la	O
@@ -3003,6 +3115,7 @@ Hauts	B-Location
 de	B-Location
 France	B-Location
 .	O
+
 Alexis	B-Person
 -	I-Person
 François	I-Person
@@ -3029,6 +3142,7 @@ un	O
 médecin	B-MedecineFunction
 français	B-Nation
 .	O
+
 Ariane	B-Person
 Bilheran	I-Person
 est	O
@@ -3068,6 +3182,7 @@ psychologie	O
 du	O
 pouvoir	O
 .	O
+
 Cet	O
 article	O
 fournit	O
@@ -3090,6 +3205,7 @@ le	O
 septembre	I-Time
 1983	I-Time
 .	O
+
 Louis	B-Person
 -	I-Person
 Adrien	I-Person
@@ -3119,6 +3235,7 @@ auteur	B-LitteratureFunction
 dramatique	I-LitteratureFunction
 français	B-Nation
 .	O
+
 Luca	B-Person
 Di	I-Person
 Fulvio	I-Person
@@ -3158,6 +3275,7 @@ et	O
 de	O
 jeunesse	O
 .	O
+
 Susan	B-Person
 Egan	I-Person
 est	O
@@ -3177,6 +3295,7 @@ Beach	I-Location
 en	O
 Californie	B-Location
 .	O
+
 Nemesgörzsöny	B-Location
 est	O
 un	O
@@ -3203,6 +3322,7 @@ comptait	O
 799	B-Measure
 habitants	I-Measure
 .	O
+
 Les	B-Album
 Naufrageurs	I-Album
 est	O
@@ -3220,6 +3340,7 @@ dessinée	O
 par	O
 MiTacq	B-Person
 .	O
+
 À	O
 l	O
 '	O
@@ -3264,6 +3385,7 @@ au	O
 n°	O
 2235	O
 .	O
+
 Elle	O
 sort	O
 en	O
@@ -3281,6 +3403,7 @@ jeunesse	O
 en	O
 1985	B-Time
 .	O
+
 Cet	O
 album	O
 est	O
@@ -3296,6 +3419,7 @@ Jacques	B-Product
 Le	I-Product
 Gall	I-Product
 .	O
+
 À	O
 noter	O
 que	O
@@ -3311,6 +3435,7 @@ de	O
 ce	O
 tome	O
 .	O
+
 Yomara	B-Person
 Hinestroza	I-Person
 Murillo	I-Person
@@ -3332,6 +3457,7 @@ spécialiste	O
 du	O
 sprint	O
 .	O
+
 Punta	B-Facility
 di	I-Facility
 Spanu	I-Facility
@@ -3363,6 +3489,7 @@ l	O
 Île	B-Location
 Rousse	I-Location
 .	O
+
 L	O
 '	O
 article	O
@@ -3383,6 +3510,7 @@ de	O
 la	O
 discipline	O
 .	O
+
 Ci	O
 -	O
 dessous	O
@@ -3400,6 +3528,7 @@ seule	O
 branche	O
 signalée	O
 .	O
+
 Giorgio	B-Person
 Messori	I-Person
 (	O
@@ -3430,6 +3559,7 @@ un	O
 italien	B-Nation
 contemporain	I-Nation
 .	O
+
 Heinz	B-Person
 Piontek	I-Person
 ,	O
@@ -3461,6 +3591,7 @@ et	O
 poète	B-LitteratureFunction
 allemand	B-Nation
 .	O
+
 Raphaël	B-Person
 Meltz	I-Person
 (	O
@@ -3480,6 +3611,7 @@ journal	O
 Le	B-Media
 Tigre	I-Media
 .	O
+
 Il	O
 a	O
 codirigé	O
@@ -3497,6 +3629,7 @@ de	O
 à	O
 2004	B-Time
 .	O
+
 À	O
 la	O
 suite	O
@@ -3540,6 +3673,7 @@ décembre	B-Time
 2014	I-Time
 ,	O
 .	O
+
 Anna	B-Person
 Cruz	I-Person
 ,	O
@@ -3562,6 +3696,7 @@ basket	O
 -	O
 ball	O
 .	O
+
 L	O
 '	O
 église	B-Facility
@@ -3584,6 +3719,7 @@ Champenoises	I-Location
 en	O
 France	B-Location
 .	O
+
 Nettoyage	B-Product
 par	I-Product
 le	I-ProductO
@@ -3602,6 +3738,7 @@ sorti	O
 en	O
 1907	B-Time
 .	O
+
 Le	O
 régiment	O
 Royal	B-Organization
@@ -3631,6 +3768,7 @@ créé	O
 en	O
 1668	B-Time
 .	O
+
 La	O
 "	O
 Famenoise	B-Species
@@ -3642,6 +3780,7 @@ de	O
 poule	O
 domestique	O
 .	O
+
 Sétolé	B-Location
 (	O
 en	O
@@ -3668,6 +3807,7 @@ municipalité	O
 de	O
 Tetovo	B-Location
 .	O
+
 Le	O
 village	O
 comptait	O
@@ -3676,6 +3816,7 @@ habitants	I-Measure
 en	O
 2002	B-Time
 .	O
+
 Phillip	B-Person
 Mukomana	I-Person
 (	O
@@ -3695,6 +3836,7 @@ du	O
 400	O
 mètres	O
 .	O
+
 Bourecq	B-Location
 est	O
 une	O
@@ -3716,6 +3858,7 @@ Hauts	B-Location
 de	I-Location
 France	I-Location
 .	O
+
 Jean	B-Person
 Madura	I-Person
 (	O
@@ -3734,6 +3877,7 @@ peintre	I-ArtFunction
 orientaliste	I-ArtFunction
 français	B-Nation
 .	O
+
 Les	B-Product
 Contemplations	I-Product
 est	O
@@ -3751,6 +3895,7 @@ publié	O
 en	O
 1856	B-Time
 .	O
+
 Il	O
 est	O
 composé	O
@@ -3762,6 +3907,7 @@ en	O
 six	O
 livres	O
 .	O
+
 La	O
 plupart	O
 de	O
@@ -3788,6 +3934,7 @@ datent	O
 de	O
 1830	B-Time
 .	O
+
 Les	B-Product
 Contemplations	I-Product
 est	O
@@ -3821,6 +3968,7 @@ certaine	O
 foi	O
 mystique	O
 .	O
+
 Le	O
 souvenir	O
 ,	O
@@ -3845,6 +3993,7 @@ l	O
 autobiographie	O
 versifiée	O
 .	O
+
 Ce	O
 recueil	O
 est	O
@@ -3865,6 +4014,7 @@ Seine	B-Location
 à	O
 Villequier	B-Location
 .	O
+
 Tumut	B-Location
 (	O
 5925	B-Measure
@@ -3895,6 +4045,7 @@ la	O
 Tumut	B-Location
 River	I-Location
 .	O
+
 Amédée	B-Person
 Barthélémy	I-Person
 Gayet	I-Person
@@ -3936,6 +4087,7 @@ arrondissement	I-Location
 de	I-Location
 Paris	I-Location
 .	O
+
 Le	O
 passage	B-Location
 Victor	I-Location
@@ -3959,6 +4111,7 @@ Maison	I-Location
 -	I-Location
 Blanche	I-Location
 .	O
+
 Riccardo	B-Person
 Zoidl	I-Person
 ,	O
@@ -3976,6 +4129,7 @@ coureur	B-SportFunction
 cycliste	I-SportFunction
 autrichien	B-Nation
 .	O
+
 Il	O
 est	O
 passé	O
@@ -3993,6 +4147,7 @@ Arbö	I-SportsTeam
 Gourmetfein	I-SportsTeam
 Wels	I-SportsTeam
 .	O
+
 Il	O
 est	O
 actuellement	O
@@ -4005,6 +4160,7 @@ Felbermayr	I-SportsTeam
 Simplon	I-SportsTeam
 Wels	I-SportsTeam
 .	O
+
 Jaap	B-Person
 de	I-Person
 Boer	I-Person
@@ -4038,6 +4194,7 @@ de	O
 bandes	O
 dessinées	O
 .	O
+
 Trepalium	O
 peut	O
 désigner	O
@@ -4048,11 +4205,13 @@ de	O
 métal	O
 Trepalium	B-Band
 .	O
+
 La	O
 série	O
 télévisée	O
 Trepalium	B-Product
 .	O
+
 Étymologie	O
 du	O
 travail	O
@@ -4135,6 +4294,7 @@ domination	O
 des	O
 hommes	O
 .	O
+
 Les	O
 championnats	B-Event
 du	I-Event
@@ -4170,6 +4330,7 @@ Tampere	B-Location
 en	O
 Finlande	B-Location
 .	O
+
 Marcin	B-Person
 Bachleda	I-Person
 (	O
@@ -4196,6 +4357,7 @@ sauteur	B-SportFunction
 ski	O
 polonais	B-Nation
 .	O
+
 Claudine	B-Person
 Oger	I-Person
 ,	O
@@ -4215,6 +4377,7 @@ avril	I-Time
 à	O
 Paris	B-Location
 .	O
+
 Elle	O
 a	O
 été	O
@@ -4225,6 +4388,7 @@ Miss	B-Event
 Monde	I-Event
 1958	I-Event
 .	O
+
 Le	O
 handicap	O
 en	O
@@ -4283,6 +4447,7 @@ d	O
 art	O
 français	B-Nation
 .	O
+
 Il	O
 est	O
 également	O
@@ -4296,6 +4461,7 @@ Paris	B-Organization
 -	I-Organization
 VII	I-Organization
 .	O
+
 Karl	B-Person
 Wilhelm	I-Person
 Ramler	I-Person
@@ -4325,6 +4491,7 @@ et	O
 traducteur	B-LitteratureFunction
 allemand	B-Nation
 .	O
+
 Salpichroa	B-Species
 est	O
 un	O
@@ -4353,6 +4520,7 @@ Amérique	B-Location
 du	I-Location
 Sud	I-Location
 .	O
+
 Une	O
 insoleuse	O
 est	O
@@ -4367,6 +4535,7 @@ de	O
 circuits	O
 imprimés	O
 .	O
+
 Melophagus	B-Species
 est	O
 un	O
@@ -4375,6 +4544,7 @@ de	O
 mouches	O
 aptères	O
 .	O
+
 Saint	B-Location
 -	I-Location
 Martin	I-Location
@@ -4407,6 +4577,7 @@ province	B-Location
 de	I-Location
 Namur	I-Location
 .	O
+
 C	O
 '	O
 était	O
@@ -4423,6 +4594,7 @@ communes	O
 de	O
 1977	B-Event
 .	O
+
 Brissac	B-Location
 -	I-Location
 Quincé	I-Location
@@ -4448,6 +4620,7 @@ de	I-Location
 la	I-Location
 Loire	I-Location
 .	O
+
 La	O
 commune	O
 est	O
@@ -4467,6 +4640,7 @@ et	O
 de	O
 Quincé	B-Location
 .	O
+
 Elle	O
 est	O
 ensuite	O
@@ -4488,6 +4662,7 @@ devient	O
 commune	O
 déléguée	O
 .	O
+
 Les	O
 historiens	O
 désignent	O
@@ -4545,6 +4720,7 @@ le	O
 plus	O
 connu	O
 .	O
+
 Ces	O
 codes	O
 évoquent	O
@@ -4558,6 +4734,7 @@ doléances	O
 de	O
 1789	B-Time
 .	O
+
 Une	O
 couche	O
 pour	O
@@ -4582,6 +4759,7 @@ adultes	O
 ou	O
 adolescentes	O
 .	O
+
 Les	O
 couches	O
 peuvent	O
@@ -4617,9 +4795,11 @@ démence	O
 [	O
 réf	O
 .	O
+
 nécessaire	O
 ]	O
 .	O
+
 Armenteule	B-Location
 est	O
 une	O
@@ -4659,6 +4839,7 @@ nouvelle	O
 de	O
 Loudenvielle	B-Location
 .	O
+
 Le	O
 Circuit	B-Event
 de	I-Event
@@ -4678,6 +4859,7 @@ wallonne	I-Location
 en	O
 Belgique	B-Location
 .	O
+
 Elle	O
 fait	O
 partie	O
@@ -4694,7 +4876,9 @@ catégorie	O
 1	O
 2	O
 .	O
+
 .	O
+
 Le	O
 blason	O
 de	O
@@ -4707,6 +4891,7 @@ adopté	O
 en	O
 1998	B-Time
 .	O
+
 Il	O
 s	O
 '	O
@@ -4732,6 +4917,7 @@ indépendance	O
 du	O
 pays	O
 .	O
+
 Le	O
 blason	O
 est	O
@@ -4742,6 +4928,7 @@ du	O
 drapeau	O
 national	O
 .	O
+
 C	O
 '	O
 est	O
@@ -4778,6 +4965,7 @@ et	O
 serbes	B-Nation
 )	O
 .	O
+
 En	O
 la	O
 seconde	O
@@ -4807,6 +4995,7 @@ l	O
 '	O
 Europe	B-Location
 .	O
+
 Dale	B-Person
 Hawerchuk	I-Person
 (	O
@@ -4832,6 +5021,7 @@ sur	O
 glace	O
 canadien	B-Nation
 .	O
+
 Une	O
 station	O
 alpine	O
@@ -4859,6 +5049,7 @@ dans	O
 les	O
 Alpes	B-Location
 .	O
+
 Eresia	B-Species
 perna	I-Species
 est	O
@@ -4883,6 +5074,7 @@ du	O
 genre	O
 Eresia	B-Species
 .	O
+
 La	O
 place	B-Location
 du	I-Location
@@ -4902,6 +5094,7 @@ Nantes	B-Location
 en	O
 France	B-Location
 .	O
+
 Le	O
 diocèse	B-Location
 du	I-Location
@@ -4926,6 +5119,7 @@ totalité	O
 du	O
 Groenland	B-Location
 .	O
+
 Son	O
 siège	O
 épiscopal	O
@@ -4938,6 +5132,7 @@ la	O
 capitale	O
 groenlandaise	O
 .	O
+
 Sainte	B-Location
 -	I-Location
 Sévère	I-Location
@@ -4962,6 +5157,7 @@ Val	I-Location
 de	I-Location
 Loire	I-Location
 .	O
+
 Remetschwil	B-Location
 est	O
 une	O
@@ -4980,6 +5176,7 @@ district	B-Location
 de	I-Location
 Baden	I-Location
 .	O
+
 Lars	B-Person
 Sjunnesson	I-Person
 ,	O
@@ -4997,6 +5194,7 @@ bande	O
 dessinée	O
 suédois	B-Nation
 .	O
+
 Louis	B-Person
 -	I-Person
 Joseph	I-Person
@@ -5025,6 +5223,7 @@ et	O
 médailliste	I-ArtFunction
 français	B-Nation
 .	O
+
 La	O
 route	B-Location
 nationale	I-Location
@@ -5044,6 +5243,7 @@ Nantes	B-Location
 à	O
 Brest	B-Location
 .	O
+
 San	B-Location
 -	I-Location
 Nicolao	I-Location
@@ -5070,6 +5270,7 @@ collectivité	O
 de	O
 Corse	B-Location
 .	O
+
 Elle	O
 appartient	O
 à	O
@@ -5087,6 +5288,7 @@ chef	O
 -	O
 lieu	O
 .	O
+
 La	O
 parturition	O
 ,	O
@@ -5117,6 +5319,7 @@ monde	O
 la	O
 progéniture	O
 .	O
+
 Concrètement	O
 ,	O
 il	O
@@ -5162,6 +5365,7 @@ l	O
 espèce	O
 considérée	O
 .	O
+
 Le	O
 musée	B-Facility
 Clemenceau	I-Facility
@@ -5190,6 +5394,7 @@ arrondissement	I-Location
 de	I-Location
 Paris	I-Location
 .	O
+
 Ce	O
 musée	O
 ,	O
@@ -5230,6 +5435,7 @@ de	O
 ce	O
 dernier	O
 .	O
+
 Sir	B-Person
 Peter	I-Person
 Kerley	I-Person
@@ -5255,6 +5461,7 @@ un	O
 radiologue	B-MedecineFunction
 britannique	B-Nation
 .	O
+
 Pseudaulacaspis	B-Species
 est	O
 un	O
@@ -5271,6 +5478,7 @@ famille	O
 des	O
 cochenilles	O
 .	O
+
 Bohdan	B-Person
 Andrzejewski	I-Person
 ,	O
@@ -5292,6 +5500,7 @@ l	O
 '	O
 épée	O
 .	O
+
 Charles	B-Person
 Duits	I-Person
 ,	O
@@ -5322,6 +5531,7 @@ de	O
 récits	O
 érotiques	O
 .	O
+
 Goodbye	B-Event
 To	I-Event
 The	I-Event
@@ -5346,6 +5556,7 @@ définitivement	O
 se	O
 séparer	O
 .	O
+
 La	O
 reformation	O
 d	O
@@ -5368,6 +5579,7 @@ conférence	O
 de	O
 presse	O
 .	O
+
 Guet	B-Location
 Ndar	I-Location
 est	O
@@ -5382,6 +5594,7 @@ Louis	I-Location
 du	O
 Sénégal	B-Location
 .	O
+
 Trente	B-Measure
 mille	I-Measure
 tonnes	I-Measure
@@ -5394,6 +5607,7 @@ par	O
 ce	O
 port	O
 .	O
+
 Des	O
 milliers	O
 de	O
@@ -5408,6 +5622,7 @@ sur	O
 la	O
 plage	O
 .	O
+
 Joseph	B-Person
 -	I-Person
 Alphonse	I-Person
@@ -5437,6 +5652,7 @@ le	O
 août	I-Time
 1799	I-Time
 .	O
+
 Øvre	B-Location
 Kvarv	I-Location
 est	O
@@ -5450,6 +5666,7 @@ Nordland	I-Location
 en	O
 Norvège	B-Location
 .	O
+
 La	O
 Guerre	B-Product
 des	I-Product
@@ -5479,6 +5696,7 @@ en	O
 chez	O
 Plon	B-Organization
 .	O
+
 Carex	B-Species
 brunnescens	I-Species
 est	O
@@ -5496,6 +5714,7 @@ famille	O
 des	O
 Cyperaceae	B-Species
 .	O
+
 L	O
 '	O
 acide	O
@@ -5541,6 +5760,7 @@ de	O
 sa	O
 chaîne	O
 .	O
+
 Psychrobacter	B-Species
 est	O
 un	O
@@ -5571,6 +5791,7 @@ froid	O
 et	O
 osmotolérant	O
 .	O
+
 Les	O
 cellules	O
 sont	O
@@ -5578,6 +5799,7 @@ sphériques	O
 à	O
 bacillaires	O
 .	O
+
 Indra	B-Organization
 est	O
 une	O
@@ -5589,6 +5811,7 @@ l	O
 '	O
 informatique	O
 .	O
+
 Deuxième	O
 entreprise	O
 européenne	O
@@ -5615,6 +5838,7 @@ investissement	O
 en	O
 RD	O
 .	O
+
 Thaís	B-Person
 de	I-Person
 Campos	I-Person
@@ -5632,6 +5856,7 @@ une	O
 actrice	B-MovieFunction
 brésilienne	B-Nation
 .	O
+
 La	O
 rue	B-Location
 Gauguin	I-Location
@@ -5647,6 +5872,7 @@ Paris	I-Location
 en	O
 France	B-Location
 .	O
+
 Zapatoca	B-Location
 est	O
 une	O
@@ -5660,6 +5886,7 @@ Santander	B-Location
 en	O
 Colombie	B-Location
 .	O
+
 Donald	B-Person
 Williams	I-Person
 ,	O
@@ -5686,6 +5913,7 @@ basket	O
 -	O
 ball	O
 .	O
+
 Il	O
 évolue	O
 aux	O
@@ -5697,6 +5925,7 @@ d	O
 '	O
 arrière	B-SportFunction
 .	O
+
 Scarfilm	B-Organization
 est	O
 une	O
@@ -5705,6 +5934,7 @@ de	O
 production	O
 cinématographique	O
 .	O
+
 Son	O
 siège	O
 social	O
@@ -5716,6 +5946,7 @@ Bruxelles	B-Location
 en	O
 Belgique	B-Location
 .	O
+
 Scarfilm	B-Organization
 produit	O
 des	O
@@ -5726,6 +5957,7 @@ fiction	O
 des	O
 clips	O
 .	O
+
 Le	B-Movie
 Fruit	I-Movie
 du	I-Movie
@@ -5751,6 +5983,7 @@ les	O
 en	O
 1984	B-Time
 .	O
+
 Le	O
 collège	B-Facility
 de	I-Facility
@@ -5768,6 +6001,7 @@ de	O
 à	O
 1973	B-Time
 .	O
+
 Pedro	B-Person
 de	I-Person
 Oña	I-Person
@@ -5801,6 +6035,7 @@ et	O
 écrivain	B-LitteratureFunction
 chilien	B-Nation
 .	O
+
 Son	O
 œuvre	O
 principale	O
@@ -5838,6 +6073,7 @@ Alonso	B-Person
 de	I-Person
 Ercilla	I-Person
 .	O
+
 Avec	O
 Arauco	B-Person
 Domado	I-Person
@@ -5853,6 +6089,7 @@ né	O
 au	O
 Chili	B-Location
 .	O
+
 Niederbachheim	B-Location
 est	O
 une	O
@@ -5884,6 +6121,7 @@ l	O
 '	O
 Allemagne	B-Location
 .	O
+
 Le	O
 76e	B-Organization
 régiment	I-Organization
@@ -5913,6 +6151,7 @@ Première	B-Event
 Guerre	I-Event
 mondiale	I-Event
 .	O
+
 Villanubla	B-Location
 est	O
 une	O
@@ -5934,6 +6173,7 @@ León	I-Location
 en	O
 Espagne	B-Location
 .	O
+
 Le	O
 baron	B-NoblessFunction
 Agathon	B-Person
@@ -5966,6 +6206,7 @@ le	O
 septembre	I-Time
 1836	I-Time
 .	O
+
 Kupa	B-Location
 est	O
 une	O
@@ -5988,6 +6229,7 @@ Primorje	I-Location
 Gorski	I-Location
 Kotar	I-Location
 .	O
+
 En	O
 2001	B-Time
 ,	O
@@ -5997,6 +6239,7 @@ comptait	O
 11	B-Measure
 habitants	I-Measure
 .	O
+
 Armin	B-Person
 Görtz	I-Person
 est	O
@@ -6011,6 +6254,7 @@ août	I-Time
 à	O
 Rodewicz	B-Location
 .	O
+
 Il	O
 évolue	O
 au	O
@@ -6020,6 +6264,7 @@ milieu	B-SportFunction
 de	I-SportFunction
 terrain	I-SportFunction
 .	O
+
 Michel	B-Person
 Deutsch	I-Person
 ,	O
@@ -6046,6 +6291,7 @@ en	I-MovieFunction
 scène	I-MovieFunction
 français	B-Nation
 .	O
+
 Dans	O
 la	O
 mythologie	O
@@ -6081,6 +6327,7 @@ représentant	O
 la	O
 foudre	O
 .	O
+
 Le	O
 foudre	O
 est	O
@@ -6098,6 +6345,7 @@ Zeus	B-FictionalCharacter
 Jupiter	B-FictionalCharacter
 )	O
 .	O
+
 Nailly	B-Location
 est	O
 une	O
@@ -6118,6 +6366,7 @@ Bourgogne	B-Location
 Franche	I-Location
 Comté	I-Location
 .	O
+
 Victor	B-Person
 Izay	I-Person
 (	O
@@ -6152,6 +6401,7 @@ un	O
 acteur	B-MovieFunction
 américain	B-Nation
 .	O
+
 Dominique	B-Person
 Rouits	I-Person
 est	O
@@ -6169,6 +6419,7 @@ le	O
 avril	I-Time
 1949	I-Time
 .	O
+
 Leptocoma	B-Species
 sperata	I-Species
 est	O
@@ -6182,6 +6433,7 @@ famille	O
 des	O
 Nectariniidae	B-Species
 .	O
+
 Bagatelle	B-Location
 est	O
 un	O
@@ -6213,6 +6465,7 @@ l	O
 océan	B-Location
 Indien	I-Location
 .	O
+
 Il	O
 constitue	O
 un	O
@@ -6225,6 +6478,7 @@ Sainte	B-Location
 -	I-Location
 Suzanne	I-Location
 .	O
+
 Cet	O
 article	O
 présente	O
@@ -6244,6 +6498,7 @@ depuis	O
 1965	B-Time
 ,	O
 .	O
+
 La	O
 Freebox	B-Product
 est	O
@@ -6273,6 +6528,7 @@ très	O
 haut	O
 débit	O
 .	O
+
 La	O
 Freebox	B-Product
 a	O
@@ -6290,6 +6546,7 @@ son	O
 premier	O
 lancement	O
 .	O
+
 Cet	O
 appareil	O
 sert	O
@@ -6337,6 +6594,7 @@ de	O
 Free	B-Organization
 »	O
 .	O
+
 En	O
 ce	O
 sens	O
@@ -6397,6 +6655,7 @@ triple	O
 play	O
 »	O
 .	O
+
 La	O
 Freebox	B-Product
 peut	O
@@ -6417,6 +6676,7 @@ Wi	O
 -	O
 Fi	O
 .	O
+
 La	O
 Freebox	B-Product
 est	O
@@ -6445,6 +6705,7 @@ prêtée	O
 aux	O
 abonnés	O
 .	O
+
 Elle	O
 est	O
 livrée	O
@@ -6461,6 +6722,7 @@ filtre	O
 …	O
 )	O
 .	O
+
 Paradiso	B-Movie
 est	O
 un	O
@@ -6487,6 +6749,7 @@ cette	O
 même	O
 année	O
 .	O
+
 La	O
 composition	O
 d	O
@@ -6544,6 +6807,7 @@ d	O
 '	O
 implantation	O
 .	O
+
 Les	O
 hauteurs	O
 des	O
@@ -6585,6 +6849,7 @@ cet	O
 indicateur	O
 Hc	O
 .	O
+
 Une	O
 pollinose	O
 ,	O
@@ -6611,6 +6876,7 @@ herbacées	B-Species
 et	O
 graminées	B-Species
 .	O
+
 Elle	O
 est	O
 aussi	O
@@ -6645,6 +6911,7 @@ des	O
 microbes	O
 )	O
 .	O
+
 Henri	B-Person
 Gouhier	I-Person
 ,	O
@@ -6677,6 +6944,7 @@ critique	B-LitteratureFunction
 dramatique	I-LitteratureFunction
 français	I-LitteratureFunction
 .	O
+
 Henri	B-Person
 Gouhier	I-Person
 est	O
@@ -6687,6 +6955,7 @@ d	O
 inspiration	O
 chrétienne	O
 .	O
+
 Il	O
 s	O
 '	O
@@ -6706,6 +6975,7 @@ au	O
 spiritualisme	O
 français	O
 .	O
+
 Son	O
 œuvre	O
 considérable	O
@@ -6739,6 +7009,7 @@ l	I-Product
 humanisme	I-Product
 athée	I-Product
 .	O
+
 Luc	B-Person
 Riolon	I-Person
 (	O
@@ -6760,6 +7031,7 @@ films	B-Movie
 de	I-Movie
 danse	I-Movie
 .	O
+
 Bo	B-Person
 Holmberg	I-Person
 (	O
@@ -6799,6 +7071,7 @@ est	O
 du	O
 pays	O
 .	O
+
 Il	O
 a	O
 épousé	O
@@ -6814,6 +7087,7 @@ assassinée	B-Event
 en	O
 2003	B-Time
 .	O
+
 Le	O
 Prix	B-Reward
 Gémeaux	I-Reward
@@ -6846,6 +7120,7 @@ en	O
 et	O
 2009	B-Time
 .	O
+
 René	B-Person
 Mocquiaux	I-Person
 ,	O
@@ -6883,6 +7158,7 @@ homme	B-AdministrationFunction
 politique	I-AdministrationFunction
 français	B-Nation
 .	O
+
 Proevtsé	B-Location
 ou	O
 Proevce	B-Location
@@ -6909,6 +7185,7 @@ municipalité	O
 de	O
 Koumanovo	B-Location
 .	O
+
 Le	O
 village	O
 comptait	O
@@ -6917,6 +7194,7 @@ habitants	I-Measure
 en	O
 2002	B-Time
 .	O
+
 La	B-Event
 seconde	I-Event
 Intifada	I-Event
@@ -6950,6 +7228,7 @@ de	O
 septembre	B-Time
 2000	I-Time
 .	O
+
 Ardon	B-Location
 est	O
 une	O
@@ -6967,6 +7246,7 @@ district	B-Location
 de	I-Location
 Conthey	I-Location
 .	O
+
 José	B-Location
 Batlle	I-Location
 y	I-Location
@@ -6985,6 +7265,7 @@ département	O
 de	O
 Lavalleja	B-Location
 .	O
+
 Sa	O
 population	O
 est	O
@@ -6992,6 +7273,7 @@ de	O
 2424	B-Measure
 habitants	I-Measure
 .	O
+
 Alba	B-Person
 Del	I-Person
 Monte	I-Person
@@ -7010,6 +7292,7 @@ actrice	B-MovieFunction
 pornographique	I-MovieFunction
 espagnole	O
 .	O
+
 Kostintsi	B-Location
 (	O
 en	O
@@ -7034,6 +7317,7 @@ municipalité	O
 de	O
 Dolneni	B-Location
 .	O
+
 Le	O
 village	O
 comptait	O
@@ -7042,6 +7326,7 @@ habitants	I-Measure
 en	O
 2002	B-Time
 .	O
+
 Max	B-Person
 Forrester	I-Person
 Eastman	I-Person
@@ -7083,6 +7368,7 @@ de	O
 sa	O
 vie	O
 .	O
+
 Karl	B-Person
 Geurs	I-Person
 est	O
@@ -7109,6 +7395,7 @@ Californie	B-Location
 Unis	I-Location
 )	O
 .	O
+
 Donna	B-Person
 Ringrose	I-Person
 (	O
@@ -7153,6 +7440,7 @@ hockey	O
 sur	O
 glace	O
 .	O
+
 Les	B-Location
 Mollettes	I-Location
 est	O
@@ -7174,6 +7462,7 @@ Auvergne	B-Location
 Rhône	I-Location
 Alpes	I-Location
 .	O
+
 Piotr	B-Person
 Pamuła	I-Person
 ,	O
@@ -7199,6 +7488,7 @@ basket	0
 -	0
 ball	0
 .	O
+
 Il	O
 évolue	O
 au	O
@@ -7207,6 +7497,7 @@ d	O
 '	O
 arrière	O
 .	O
+
 Jean	B-Person
 Zévaco	I-Person
 ,	O
@@ -7256,6 +7547,7 @@ puis	O
 évêque	B-ReligionFunction
 émérite	I-ReligionFunction
 .	O
+
 Olivier	B-Person
 Anken	I-Person
 né	O
@@ -7276,6 +7568,7 @@ hockey	O
 sur	O
 glace	O
 .	O
+
 Pauline	B-Person
 Frederick	I-Person
 est	O
@@ -7296,6 +7589,7 @@ le	O
 septembre	I-Time
 1938	I-Time
 .	O
+
 Tore	B-Person
 Meinecke	I-Person
 ,	O
@@ -7316,6 +7610,7 @@ tennis	I-SportFunction
 professionnel	I-SportFunction
 allemand	B-Nation
 .	O
+
 Robert	B-Person
 Philip	I-Person
 Woonton	I-Person
@@ -7339,6 +7634,7 @@ au	O
 décembre	I-Time
 2004	I-Time
 .	O
+
 Forcelles	B-Location
 -	I-Location
 sous	I-Location
@@ -7361,6 +7657,7 @@ région	O
 Grand	B-Location
 Est	I-Location
 .	O
+
 James	B-Person
 LoMenzo	I-Person
 est	O
@@ -7377,6 +7674,7 @@ janvier	I-Time
 à	O
 Brooklyn	B-Location
 .	O
+
 Bohumil	B-Person
 Modrý	I-Person
 (	O
@@ -7411,6 +7709,7 @@ nationale	O
 de	O
 Tchécoslovaquie	B-Location
 .	O
+
 Il	O
 gagna	O
 une	O
@@ -7427,6 +7726,7 @@ hiver	I-Event
 de	O
 1948	I-Time
 .	O
+
 Domenico	B-Person
 Mariani	I-Person
 ,	O
@@ -7471,6 +7771,7 @@ l	O
 catholique	I-Organization
 romaine	I-Organization
 .	O
+
 Constantin	B-Person
 de	I-Person
 Gortchakoff	I-Person
@@ -7488,6 +7789,7 @@ le	O
 avril	B-Time
 2009	I-Time
 .	O
+
 Kings	B-Location
 Heath	I-Location
 (	O
@@ -7517,6 +7819,7 @@ de	O
 la	O
 cité	O
 .	O
+
 Portail	O
 de	O
 Birmingham	B-Location
@@ -7548,6 +7851,7 @@ le	O
 mai	I-Time
 1975	I-Time
 .	O
+
 Seuls	O
 ont	O
 droit	O
@@ -7572,6 +7876,7 @@ par	O
 le	O
 décret	O
 .	O
+
 Le	O
 Colli	B-Product
 Bolognesi	I-Product
@@ -7600,6 +7905,7 @@ avec	O
 le	O
 vieillissement	O
 .	O
+
 Bad	B-Location
 Hall	I-Location
 est	O
@@ -7617,6 +7923,7 @@ Haute	B-Location
 -	I-Location
 Autriche	I-Location
 .	O
+
 En	O
 économie	O
 ,	O
@@ -7651,6 +7958,7 @@ n	O
 ont	O
 pas	O
 .	O
+
 Par	O
 exemple	O
 ,	O
@@ -7700,6 +8008,7 @@ la	O
 société	O
 B	O
 .	O
+
 La	O
 présence	O
 d	O
@@ -7721,6 +8030,7 @@ de	O
 risque	O
 moral	O
 .	O
+
 Le	O
 14e	B-Event
 Championnat	I-Event
@@ -7749,6 +8059,7 @@ Debrecen	B-Location
 Hongrie	B-Location
 )	O
 .	O
+
 Sylvester	B-Person
 Nguni	I-Person
 est	O
@@ -7757,6 +8068,7 @@ homme	B-Politician
 politique	I-Politician
 zimbabwéen	B-Location
 .	O
+
 Makefu	B-Location
 est	O
 un	O
@@ -7764,6 +8076,7 @@ village	O
 de	O
 Niue	B-Location
 .	O
+
 Selon	O
 le	O
 dernier	O
@@ -7779,6 +8092,7 @@ de	O
 62	B-Measure
 habitants	I-Measure
 .	O
+
 Cette	O
 page	O
 concerne	O
@@ -7790,6 +8104,7 @@ en	O
 arts	O
 plastiques	O
 .	O
+
 Le	O
 Syntomidopsis	B-Species
 variegata	I-Species
@@ -7804,6 +8119,7 @@ famille	O
 des	O
 Arctiidae	B-Species
 .	O
+
 Friedrich	B-Person
 Ludwig	I-Person
 Zacharias	I-Person
@@ -7834,6 +8150,7 @@ et	O
 prédicateur	B-ReligionFunction
 allemand	B-Nation
 .	O
+
 Mondavio	B-Location
 est	O
 une	O
@@ -7853,6 +8170,7 @@ Marches	B-Location
 en	O
 Italie	B-Location
 .	O
+
 Leisure	B-Product
 Suit	I-Product
 Larry	I-Product
@@ -7886,6 +8204,7 @@ les	O
 années	O
 1980	B-Time
 .	O
+
 Gosné	B-Location
 est	O
 une	O
@@ -7909,6 +8228,7 @@ de	O
 1998	B-Measure
 habitants	I-Measure
 .	O
+
 Heuilley	B-Location
 -	I-Location
 Cotton	I-Location
@@ -7932,6 +8252,7 @@ région	O
 Grand	B-Location
 Est	I-Location
 .	O
+
 Le	O
 1er	B-Time
 janvier	I-Time
@@ -7951,6 +8272,7 @@ Villegusien	B-Location
 le	I-Location
 Lac	I-Location
 .	O
+
 Barnard	B-Person
 de	I-Person
 Romans	I-Person
@@ -7974,6 +8296,7 @@ Vienne	B-Location
 en	O
 Dauphiné	B-Location
 .	O
+
 C	O
 '	O
 est	O
@@ -7990,6 +8313,7 @@ le	O
 23	B-Time
 janvier	I-Time
 .	O
+
 Conger	B-Species
 cinereus	I-Species
 Le	O
@@ -8015,6 +8339,7 @@ appelé	O
 congre	B-Species
 oiro	I-Species
 .	O
+
 Marc	B-Person
 Acardipane	I-Person
 ,	O
@@ -8038,6 +8363,7 @@ et	O
 gabber	O
 allemand	O
 .	O
+
 Trauner	B-Person
 est	O
 considéré	O
@@ -8070,6 +8396,7 @@ Planet	B-Brand
 Core	I-Brand
 Productions	I-Brand
 .	O
+
 L	O
 '	O
 article	O
@@ -8098,6 +8425,7 @@ le	O
 domaine	O
 législatif	O
 .	O
+
 Montsérié	B-Location
 est	O
 une	O
@@ -8116,6 +8444,7 @@ en	O
 région	O
 Occitanie	B-Location
 .	O
+
 Ses	O
 habitants	O
 sont	O
@@ -8123,6 +8452,7 @@ appelés	O
 les	O
 Montsériérais	O
 .	O
+
 Le	O
 premier	O
 Championnat	B-Event
@@ -8153,6 +8483,7 @@ l	I-Location
 '	I-Location
 Ouest	I-Location
 .	O
+
 Il	O
 s	O
 '	O
@@ -8180,6 +8511,7 @@ glace	I-Organization
 IIHF	B-Organization
 )	O
 .	O
+
 La	O
 hiérarchie	O
 des	O
@@ -8208,6 +8540,7 @@ par	O
 la	O
 France	B-Location
 .	O
+
 Cette	O
 hiérarchie	O
 ,	O
@@ -8243,6 +8576,7 @@ par	O
 un	O
 juge	O
 .	O
+
 Il	O
 existe	O
 deux	O
@@ -8266,6 +8600,7 @@ d	O
 '	O
 action	O
 .	O
+
 La	O
 Jagdgeschwader	B-Organization
 4	I-Organization
@@ -8293,6 +8628,7 @@ Seconde	B-Event
 Guerre	I-Event
 mondiale	I-Event
 .	O
+
 Saint	B-Location
 -	I-Location
 André	I-Location
@@ -8318,6 +8654,7 @@ en	O
 région	O
 Bretagne	B-Location
 .	O
+
 La	O
 Life	B-Organization
 Parade	I-Organization
@@ -8357,6 +8694,7 @@ de	O
 vie	O
 »	O
 .	O
+
 Elle	O
 possède	O
 aussi	O
@@ -8366,6 +8704,7 @@ pro	O
 -	O
 vie	O
 .	O
+
 Elle	O
 organise	O
 chaque	O
@@ -8376,6 +8715,7 @@ du	O
 même	O
 nom	O
 .	O
+
 Navur	B-Location
 (	O
 en	O
@@ -8394,6 +8734,7 @@ Tavush	I-Location
 en	O
 Arménie	B-Location
 .	O
+
 Elle	O
 compte	O
 1157	B-Measure
@@ -8401,6 +8742,7 @@ habitants	I-Measure
 en	O
 2008	B-Time
 .	O
+
 Cecil	B-Person
 Louis	I-Person
 Wilton	I-Person
@@ -8411,6 +8753,7 @@ néo	B-Nation
 -	I-Nation
 zélandais	I-Nation
 .	O
+
 C	O
 '	O
 est	O
@@ -8424,6 +8767,7 @@ néo	B-Nation
 -	I-Nation
 zélandaise	I-Nation
 .	O
+
 Warnow	B-Location
 est	O
 une	O
@@ -8447,6 +8791,7 @@ du	I-Location
 Nord	I-Location
 Ouest	I-Location
 .	O
+
 En	O
 2013	B-Time
 ,	O
@@ -8455,6 +8800,7 @@ comptait	O
 651	B-Measure
 hab	I-Measure
 .	O
+
 Monzelfeld	B-Location
 est	O
 une	O
@@ -8477,6 +8823,7 @@ Bernkastel	B-Location
 -	I-Location
 Wittlich	I-Location
 .	O
+
 Portail	O
 de	O
 la	O
@@ -8524,6 +8871,7 @@ norvégien	B-Nation
 Henrik	B-Person
 Ibsen	I-Person
 .	O
+
 Le	O
 thème	O
 dans	O
@@ -8540,6 +8888,7 @@ par	O
 le	O
 hautbois	O
 .	O
+
 Juan	B-Person
 van	I-Person
 Deventer	I-Person
@@ -8561,6 +8910,7 @@ demi	O
 -	O
 fond	O
 .	O
+
 Trégourez	B-Location
 [	O
 tʁeguʁɛs	O
@@ -8593,6 +8943,7 @@ Bretagne	B-Location
 en	O
 France	B-Location
 .	O
+
 Cet	O
 article	O
 présente	O
@@ -8604,6 +8955,7 @@ la	O
 presse	O
 marocaines	B-Nation
 .	O
+
 Philippe	B-Person
 Sisbane	I-Person
 est	O
@@ -8619,6 +8971,7 @@ en	O
 octobre	B-Time
 1964	I-Time
 .	O
+
 Le	O
 18	B-Time
 novembre	I-Time
@@ -8641,6 +8994,7 @@ bissextile	O
 en	O
 sport	O
 .	O
+
 17	B-Time
 novembre	I-Time
 en	O
@@ -8656,6 +9010,7 @@ novembre	I-Time
 en	O
 sport	O
 .	O
+
 Charles	B-Person
 -	I-Person
 Gustave	I-Person
@@ -8697,6 +9052,7 @@ en	O
 région	O
 parisienne	O
 .	O
+
 C	O
 '	O
 était	O
@@ -8725,6 +9081,7 @@ les	O
 années	O
 1980	B-Time
 .	O
+
 L	O
 '	O
 autostabilisation	O
@@ -8782,6 +9139,7 @@ d	O
 de	O
 calcul	O
 .	O
+
 Elle	O
 a	O
 été	O
@@ -8792,6 +9150,7 @@ Dijkstra	I-Person
 en	O
 1974	B-Time
 .	O
+
 Essentiellement	O
 analysée	O
 en	O
@@ -8854,6 +9213,7 @@ que	O
 les	O
 satellites	O
 .	O
+
 Saint	B-Location
 -	I-Location
 Julien	I-Location
@@ -8878,6 +9238,7 @@ Auvergne	B-Location
 Rhône	I-Location
 Alpes	I-Location
 .	O
+
 Le	O
 DAMAC	B-Facility
 Residenze	I-Facility
@@ -8909,6 +9270,7 @@ arabes	I-Location
 unis	I-Location
 )	O
 .	O
+
 Il	O
 a	O
 atteint	O
@@ -8919,6 +9281,7 @@ de	O
 335	B-Measure
 mètres	O
 .	O
+
 Son	O
 achèvement	O
 est	O
@@ -8926,6 +9289,7 @@ prévu	O
 pour	O
 2018	B-Time
 .	O
+
 Alagón	B-Location
 est	O
 une	O
@@ -8946,6 +9310,7 @@ d	O
 '	O
 Aragon	B-Location
 .	O
+
 C	O
 '	O
 est	O
@@ -8961,6 +9326,7 @@ Alta	I-Location
 del	I-Location
 Ebro	I-Location
 .	O
+
 Villepail	B-Location
 est	O
 une	O
@@ -8986,6 +9352,7 @@ de	O
 174	B-Measure
 habitants	I-Measure
 .	O
+
 Dans	O
 la	O
 musique	O
@@ -9018,6 +9385,7 @@ dans	O
 un	O
 chœur	O
 .	O
+
 Aubière	B-Location
 est	O
 une	O
@@ -9040,6 +9408,7 @@ Auvergne	B-Location
 Rhône	I-Location
 Alpes	I-Location
 .	O
+
 Intégrée	O
 dans	O
 l	O
@@ -9083,6 +9452,7 @@ vaste	O
 zone	O
 commerciale	O
 .	O
+
 Cet	O
 article	O
 présente	O
@@ -9117,6 +9487,7 @@ comté	B-Location
 de	I-Location
 Flandres	I-Location
 .	O
+
 Tourcoing	B-Location
 compte	O
 en	O
@@ -9127,6 +9498,7 @@ de	O
 95329	B-Measure
 habitants	I-Measure
 .	O
+
 Claude	B-Person
 Tollet	I-Person
 (	O
@@ -9146,6 +9518,7 @@ cycliste	I-SportFunction
 professionnel	O
 français	B-Nation
 .	O
+
 Un	O
 problème	O
 de	O
@@ -9163,6 +9536,7 @@ carrière	O
 cycliste	O
 professionnelle	O
 .	O
+
 Saint	B-Location
 -	I-Location
 Jean	I-Location
@@ -9193,6 +9567,7 @@ Nouvelle	B-Location
 Aquitaine	I-Location
 )	O
 .	O
+
 Danoa	B-Location
 est	O
 une	O
@@ -9218,6 +9593,7 @@ Région	O
 du	O
 Zanzan	B-Location
 .	O
+
 La	O
 localité	O
 de	O
@@ -9230,6 +9606,7 @@ lieu	O
 de	O
 commune	O
 .	O
+
 Le	O
 husky	B-Species
 labrador	I-Species
@@ -9256,6 +9633,7 @@ originaire	O
 du	O
 Canada	B-Location
 .	O
+
 Malgré	O
 son	O
 nom	O
@@ -9275,6 +9653,7 @@ et	O
 de	O
 husky	B-Species
 .	O
+
 La	O
 race	O
 est	O
@@ -9295,6 +9674,7 @@ qui	O
 la	O
 reconnaisse	O
 .	O
+
 bf	O
 est	O
 le	O
@@ -9317,6 +9697,7 @@ au	O
 Burkina	B-Location
 Faso	I-Location
 .	O
+
 Crégols	B-Location
 est	O
 une	O
@@ -9333,6 +9714,7 @@ en	O
 région	O
 Occitanie	B-Location
 .	O
+
 En	O
 physique	O
 et	O
@@ -9374,6 +9756,7 @@ est	O
 donc	O
 calculable	O
 .	O
+
 Par	O
 conséquent	O
 ,	O
@@ -9417,6 +9800,7 @@ tel	O
 dispositif	O
 )	O
 .	O
+
 La	O
 physique	O
 numérique	O
@@ -9443,6 +9827,7 @@ Turing	I-Method
 –	I-Method
 Deutsch	I-Method
 .	O
+
 Il	O
 s	O
 '	O
@@ -9462,6 +9847,7 @@ du	O
 déterminisme	O
 mathématique	O
 .	O
+
 Accueillir	B-Newspaper
 Magazine	I-Newspaper
 est	O
@@ -9478,6 +9864,7 @@ créé	O
 en	O
 2006	B-Time
 .	O
+
 Le	O
 magazine	O
 s	O
@@ -9521,6 +9908,7 @@ intéressent	O
 ces	O
 hébergements	O
 .	O
+
 Cette	O
 page	O
 concerne	O
@@ -9532,6 +9920,7 @@ du	O
 calendrier	
 julien	O
 .	O
+
 Les	B-Movie
 Sarments	I-Movie
 de	I-Movie
@@ -9553,6 +9942,7 @@ sur	O
 France	B-Media
 3	I-Media
 .	O
+
 Jean	 B-Person
 -	I-Person
 Baptiste	I-Person
@@ -9576,6 +9966,7 @@ fédéral	I-AdministrativeFunction
 du	O
 Québec	B-Location
 .	O
+
 Un	O
 projet	O
 professionnel	O
@@ -9613,6 +10004,7 @@ et	O
 des	O
 valeurs	O
 .	O
+
 L	O
 '	O
 accord	O
@@ -9658,6 +10050,7 @@ la	O
 révolution	B-Event
 indonésienne	I-Event
 .	O
+
 Les	O
 Pays	B-Location
 -	I-Location
@@ -9681,6 +10074,7 @@ ministre	I-AdministrativeFunction
 Sutan	B-Person
 Sjahrir	I-Person
 .	O
+
 La	O
 Basse	B-Location
 Marche	I-Location
@@ -9709,6 +10103,7 @@ Haute	B-Location
 -	I-Location
 Vienne	I-Location
 .	O
+
 James	B-Person
 Angus	I-Person
 Gerald	I-Person
@@ -9760,6 +10155,7 @@ poste	O
 de	O
 défenseur	B-SportFunction
 .	O
+
 Friol	B-Location
 est	O
 une	O
@@ -9779,6 +10175,7 @@ autonome	O
 de	O
 Galice	B-Location
 .	O
+
 Jules	B-Person
 Brunfaut	I-Person
 ,	O
@@ -9811,6 +10208,7 @@ période	O
 Art	O
 nouveau	O
 .	O
+
 Froidos	B-Location
 est	O
 une	O
@@ -9828,6 +10226,7 @@ région	O
 Grand	B-Location
 Est	I-Location
 .	O
+
 Le	O
 Pôle	B-Organization
 PIXEL	I-Organization
@@ -9861,6 +10260,7 @@ métropole	B-Location
 de	I-Location
 Lyon	I-Location
 .	O
+
 Son	O
 animation	O
 et	O
@@ -9880,6 +10280,7 @@ sur	O
 le	O
 site	O
 .	O
+
 Audrey	B-Person
 Dana	I-Person
 est	O
@@ -9895,6 +10296,7 @@ septembre	I-Time
 à	O
 Paris	B-Location
 .	O
+
 Elle	O
 est	O
 également	O
@@ -9902,6 +10304,7 @@ scénariste	B-ArtFunction
 et	O
 réalisatrice	B-ArtFunction
 .	O
+
 L	O
 '	O
 Ensemble	B-organisation
@@ -9927,6 +10330,7 @@ ténor	I-MusicFunction
 Paulin	B-Person
 Bündgen	I-Person
 .	O
+
 Nadia	B-Person
 Chafik	I-Person
 est	O
@@ -9947,6 +10351,7 @@ en	O
 à	O
 Casablanca	B-Location
 .	O
+
 Elle	O
 est	O
 professeur	B-EducationFunction
@@ -9956,6 +10361,7 @@ l	O
 enseignement	O
 supérieur	O
 .	O
+
 813	B-Organization
 :	I-Organization
 les	I-Organization
@@ -9988,6 +10394,7 @@ consacrée	O
 au	O
 genre	O
 .	O
+
 Abalistes	B-Species
 stellatus	I-Species
 est	O
@@ -10006,6 +10413,7 @@ famille	O
 des	O
 Balistidae	B-Species
 .	O
+
 Oberau	B-Location
 est	O
 une	O
@@ -10030,6 +10438,7 @@ Garmisch	B-Location
 -	I-Location
 Partenkirchen	I-Location
 .	O
+
 Simon	B-Person
 -	I-Person
 Olivier	I-Person
@@ -10059,6 +10468,7 @@ Bois	B-Location
 -	I-Location
 Francs	I-Location
 .	O
+
 Stuart	B-Person
 Allen	I-Person
 Roosa	I-Person
@@ -10088,6 +10498,7 @@ le	O
 décembre	I-Time
 1994	I-Time
 .	O
+
 Albaladejo	B-Location
 del	I-Location
 Cuende	I-Location
@@ -10125,6 +10536,7 @@ un	O
 consortium	O
 italien	B-Nation
 .	O
+
 Alvalade	B-Facility
 est	O
 une	O
@@ -10138,6 +10550,7 @@ la	O
 ligne	O
 verte	O
 .	O
+
 Norashenik	B-Location
 (	O
 en	O
@@ -10155,6 +10568,7 @@ Syunik	B-Location
 en	O
 Arménie	B-Location
 .	O
+
 En	O
 2008	B-Time
 ,	O
@@ -10163,6 +10577,7 @@ compte	O
 115	B-Measure
 habitants	I-Measure
 .	O
+
 Bruno	B-Person
 Girveau	I-Person
 est	O
@@ -10180,6 +10595,7 @@ l	I-ScienceFunction
 art	I-ScienceFunction
 français	B-Nation
 .	O
+
 Il	O
 est	O
 actuellement	O
@@ -10193,6 +10609,7 @@ arts	I-Facility
 de	I-Facility
 Lille	I-Facility
 .	O
+
 Vitale	B-Person
 Candiano	I-Person
 est	O
@@ -10205,6 +10622,7 @@ Venise	I-Location
 en	O
 978	B-Time
 .	O
+
 La	O
 rue	B-Location
 du	I-Location
@@ -10224,6 +10642,7 @@ Nantes	B-Location
 en	O
 France	B-Location
 .	O
+
 Le	O
 collecteur	O
 d	O
@@ -10246,6 +10665,7 @@ moteur	O
 explosion	O
 multicylindre	O
 .	O
+
 Appelé	O
 aussi	O
 répartiteur	O
@@ -10274,6 +10694,7 @@ complète	O
 du	O
 carburant	O
 .	O
+
 Cette	O
 pièce	O
 fait	O
@@ -10305,6 +10726,7 @@ s	O
 du	O
 moteur	O
 .	O
+
 Elle	O
 sert	O
 à	O
@@ -10318,6 +10740,7 @@ dans	O
 les	O
 cylindres	O
 .	O
+
 Elle	O
 peut	O
 être	O
@@ -10346,6 +10769,7 @@ matériau	O
 synthétique	O
 ,	O
 .	O
+
 La	O
 Communauté	B-Location
 de	I-Location
@@ -10377,6 +10801,7 @@ Bouches	B-Location
 du	I-Location
 Rhône	I-Location
 .	O
+
 Bébé	B-Movie
 flirte	I-Movie
 est	O
@@ -10392,6 +10817,7 @@ sorti	O
 en	O
 1911	B-Time
 .	O
+
 Pierre	B-Person
 Nicolas	I-Person
 Bonamy	I-Person
@@ -10419,6 +10845,7 @@ juillet	I-Time
 à	O
 Paris	B-Location
 .	O
+
 Le	O
 Trophée	B-Event
 NHK	I-Event
@@ -10448,6 +10875,7 @@ l	O
 '	O
 automne	O
 .	O
+
 Il	O
 accueille	O
 des	O
@@ -10473,6 +10901,7 @@ danse	O
 sur	O
 glace	O
 .	O
+
 Le	O
 sixième	O
 Trophée	B-Event
@@ -10505,6 +10934,7 @@ en	O
 mars	
 1985	I-Time
 .	O
+
 Il	O
 est	O
 à	O
@@ -10531,6 +10961,7 @@ monde	O
 junior	O
 1984	B-Time
 .	O
+
 André	B-Person
 Léon	I-Person
 Louis	I-Person
@@ -10565,6 +10996,7 @@ et	O
 dramaturge	B-ArtFunction
 français	B-Nation
 .	O
+
 Zizina	B-Species
 antanossa	I-Species
 ou	O
@@ -10593,6 +11025,7 @@ du	O
 genre	O
 Zizina	B-Species
 .	O
+
 Fragile	B-Product
 est	O
 l	O
@@ -10627,6 +11060,7 @@ label	O
 Musketeer	B-Brand
 Records	I-Brand
 .	O
+
 La	B-Location
 Salzadella	I-Location
 ,	O
@@ -10656,6 +11090,7 @@ la	O
 Communauté	B-Location
 valencienne	I-Location
 .	O
+
 Elle	O
 est	O
 située	O
@@ -10674,6 +11109,7 @@ prédominance	O
 linguistique	O
 valencienne	O
 .	O
+
 Scyliorhinus	B-Species
 torazame	I-Species
 est	O
@@ -10682,6 +11118,7 @@ espèce	O
 de	O
 requins	O
 .	O
+
 Kayao	B-Location
 est	O
 un	O
@@ -10702,6 +11139,7 @@ Centre	I-Location
 -	I-Location
 Sud	I-Location
 .	O
+
 As	B-Location
 Somozas	I-Location
 est	O
@@ -10723,6 +11161,7 @@ autonome	I-Location
 de	O
 Galice	B-Location
 .	O
+
 Jean	B-Person
 -	I-Person
 Pierre	I-Person
@@ -10753,6 +11192,7 @@ homme	B-Politician
 politique	I-Politician
 belge	B-Nation
 .	O
+
 Il	O
 a	O
 été	O
@@ -10771,6 +11211,7 @@ le	O
 mars	
 2011	I-Time
 .	O
+
 The	B-Band
 Delano	I-Band
 Orchestra	I-Band
@@ -10795,6 +11236,7 @@ Puy	B-Location
 de	I-Location
 Dôme	I-Location
 .	O
+
 Cette	O
 page	O
 concerne	O
@@ -10806,6 +11248,7 @@ du	O
 calendrier	
 julien	O
 .	O
+
 Victor	B-Person
 Louis	I-Person
 Gastebois	I-Person
@@ -10840,6 +11283,7 @@ et	O
 historien	B-ScienceFunction
 français	B-Nation
 .	O
+
 Au	B-Movie
 fond	I-Movie
 de	I-Movie
@@ -10869,6 +11313,7 @@ l	I-Movie
 '	I-Movie
 air	I-Movie
 .	O
+
 La	O
 bataille	B-Event
 d	I-Event
@@ -10903,6 +11348,7 @@ d	I-Event
 '	I-Event
 Espagne	I-Event
 .	O
+
 En	O
 mathématiques	O
 ,	O
@@ -10916,6 +11362,7 @@ d	O
 une	O
 division	O
 .	O
+
 Ce	O
 mot	O
 est	O
@@ -10994,6 +11441,7 @@ sur	O
 PlayStation	B-Product
 3	I-Product
 .	O
+
 Il	O
 a	O
 été	O
@@ -11008,6 +11456,7 @@ Namco	B-Company
 Bandai	I-Company
 Games	I-Company
 .	O
+
 Il	O
 est	O
 le	O
@@ -11019,6 +11468,7 @@ série	O
 Time	B-Product
 Crisis	I-Product
 .	O
+
 Time	B-Product
 Crisis	I-Product
 4	I-Product
@@ -11029,6 +11479,7 @@ Time	B-Product
 Crisis	I-Product
 créé	O
 .	O
+
 Dans	O
 ce	O
 jeu	O
@@ -11041,6 +11492,7 @@ mise	O
 au	O
 point	O
 .	O
+
 Gador	B-Location
 est	O
 une	O
@@ -11072,6 +11524,7 @@ l	O
 '	O
 Espagne	B-Location
 .	O
+
 Agouti	B-Species
 doré	B-Species
 L	O
@@ -11094,6 +11547,7 @@ famille	O
 des	O
 Dasyproctidae	B-Species
 .	O
+
 Souvent	O
 appelé	O
 plus	O
@@ -11124,6 +11578,7 @@ en	O
 Guyane	B-Location
 française	I-Location
 .	O
+
 Il	O
 a	O
 également	O
@@ -11135,6 +11590,7 @@ les	O
 des	O
 Antilles	B-Location
 .	O
+
 Ce	O
 rongeur	O
 a	O
@@ -11142,6 +11598,7 @@ une	O
 chair	O
 appréciée	O
 .	O
+
 L	O
 '	O
 espèce	O
@@ -11167,6 +11624,7 @@ Linné	I-Person
 1778	B-Time
 )	O
 .	O
+
 Ce	O
 manoir	O
 seigneurial	O
@@ -11190,6 +11648,7 @@ Haut	B-Location
 -	I-Location
 Rhin	I-Location
 .	O
+
 L	O
 '	O
 affaire	O
@@ -11210,6 +11669,7 @@ haïtienne	B-Nation
 en	O
 1897	B-Time
 .	O
+
 Karl	B-Person
 Krumbacher	I-Person
 ,	O
@@ -11235,6 +11695,7 @@ la	O
 culture	O
 byzantine	O
 .	O
+
 L	O
 '	O
 arnoglosse	B-Species
@@ -11259,6 +11720,7 @@ famille	O
 des	O
 bothidés	B-Species
 .	O
+
 Ekphrön	B-Album
 est	O
 le	O
@@ -11274,6 +11736,7 @@ le	O
 mars	
 2014	I-Time
 .	O
+
 John	
 Cole	I-Person
 ,	O
@@ -11307,6 +11770,7 @@ d	O
 '	O
 Australie	B-Location
 .	O
+
 Il	O
 évoluait	O
 au	O
@@ -11315,6 +11779,7 @@ d	O
 '	O
 ailier	B-SportFunction
 .	O
+
 Édouard	B-Person
 Waintrop	I-Person
 ,	O
@@ -11345,6 +11810,7 @@ Festival	I-Event
 de	I-Event
 Cannes	I-Event
 .	O
+
 Le	O
 théâtre	B-Facility
 des	I-Facility
@@ -11380,6 +11846,7 @@ incendie	O
 en	O
 1827	B-Time
 .	O
+
 Son	O
 premier	O
 directeur	O
@@ -11391,6 +11858,7 @@ dramatique	I-ArtFunction
 Léopold	B-Person
 Chandezon	I-Person
 .	O
+
 Leslie	B-Person
 Waller	I-Person
 ,	O
@@ -11440,6 +11908,7 @@ politique	O
 -	O
 fiction	O
 .	O
+
 Il	O
 a	O
 également	O
@@ -11456,6 +11925,7 @@ et	O
 Patrick	B-Person
 Mann	I-Person
 .	O
+
 La	O
 Coupe	B-Event
 de	I-Event
@@ -11473,6 +11943,7 @@ Coupe	B-Event
 de	I-Event
 Belgique	I-Event
 .	O
+
 La	O
 finale	O
 se	O
@@ -11489,6 +11960,7 @@ Baudouin	B-Facility
 à	O
 Bruxelles	B-Location
 .	O
+
 Elle	O
 est	O
 remportée	O
@@ -11524,6 +11996,7 @@ de	O
 Marvel	B-Company
 Comics	I-Company
 .	O
+
 Ce	O
 crossover	O
 est	O
@@ -11544,6 +12017,7 @@ Lopez	I-Person
 dessin	O
 )	O
 .	O
+
 Une	O
 ressource	O
 minérale	O
@@ -11589,6 +12063,7 @@ ou	O
 potentiellement	O
 faisable	O
 .	O
+
 Ces	O
 ressources	O
 sont	O
@@ -11601,6 +12076,7 @@ pas	O
 toutes	O
 découvertes	O
 .	O
+
 Les	O
 réserves	O
 minérales	O
@@ -11629,6 +12105,7 @@ et	O
 économiques	O
 rentables	O
 .	O
+
 Les	O
 réserves	O
 minérales	O
@@ -11640,6 +12117,7 @@ pas	O
 géologiquement	O
 connues	O
 .	O
+
 L	O
 '	O
 évaluation	O
@@ -11694,6 +12172,7 @@ de	O
 ressources	O
 voisines	O
 .	O
+
 Pour	O
 le	O
 pétrole	O
@@ -11716,6 +12195,7 @@ entrent	O
 en	O
 jeu	O
 .	O
+
 Warren	B-Person
 Livingston	I-Person
 Cromartie	I-Person
@@ -11763,6 +12243,7 @@ de	O
 à	O
 1991	B-Time
 .	O
+
 Il	O
 a	O
 notamment	O
@@ -11784,6 +12265,7 @@ de	O
 à	O
 1983	B-Time
 .	O
+
 Robert	B-Person
 Urbanek	I-Person
 (	O
@@ -11806,6 +12288,7 @@ lancer	O
 du	O
 disque	O
 .	O
+
 Caffè	O
 lungo	O
 en	O
@@ -11837,6 +12320,7 @@ dose	O
 de	O
 café	O
 .	O
+
 À	O
 cause	O
 du	O
@@ -11876,6 +12360,7 @@ intensité	O
 )	O
 ,	O
 .	O
+
 Bleggio	B-Location
 Inferiore	I-Location
 est	O
@@ -11915,6 +12400,7 @@ l	O
 '	O
 Italie	I-Location
 .	O
+
 Le	O
 1er	B-Time
 janvier	I-Time
@@ -11968,6 +12454,7 @@ Trentin	B-Location
 Haut	I-Location
 Adige	I-Location
 .	O
+
 Királyszentistván	B-Location
 est	O
 un	O
@@ -11982,6 +12469,7 @@ Veszprém	B-Location
 en	O
 Hongrie	B-Location
 .	O
+
 Philippe	B-Person
 Chazal	I-Person
 ,	O
@@ -12006,6 +12494,7 @@ de	O
 télévision	O
 français	B-Nation
 .	O
+
 La	O
 cefpodoxime	B-Drug
 est	O
@@ -12019,6 +12508,7 @@ de	O
 3e	O
 génération	O
 .	O
+
 Dan	B-Person
 Boeckner	I-Person
 est	O
@@ -12033,6 +12523,7 @@ de	O
 rock	O
 indépendant	O
 .	O
+
 Il	O
 est	O
 actuellement	O
@@ -12048,6 +12539,7 @@ et	O
 Divine	B-Band
 Fits	I-Band
 .	O
+
 Saint	B-Location
 -	I-Location
 Eugène	I-Location
@@ -12079,6 +12571,7 @@ Ontario	B-Location
 Canada	B-Location
 )	O
 .	O
+
 Elle	O
 se	O
 trouve	O
@@ -12102,6 +12595,7 @@ Ottawa	B-Location
 et	O
 Montréal	B-Location
 .	O
+
 Jean	B-Person
 -	I-Person
 Claude	I-Person
@@ -12133,6 +12627,7 @@ de	O
 lettres	O
 français	O
 .	O
+
 Zekarias	B-Person
 Yohannes	I-Person
 ,	O
@@ -12163,6 +12658,7 @@ l	O
 catholique	O
 éthiopienne	B-Nation
 .	O
+
 China	B-Album
 est	O
 un	O
@@ -12177,6 +12673,7 @@ sorti	O
 en	O
 1979	B-Time
 .	O
+
 Waubaushene	B-Location
 est	O
 un	O
@@ -12205,6 +12702,7 @@ du	O
 Lac	B-Location
 Huron	I-Location
 .	O
+
 Busserotte	B-Location
 -	I-Location
 et	I-Location
@@ -12230,6 +12728,7 @@ Bourgogne	B-Location
 Franche	I-Location
 Comté	I-Location
 .	O
+
 Le	O
 cinéma	O
 danois	B-Nation
@@ -12252,6 +12751,7 @@ invention	O
 du	O
 cinéma	O
 .	O
+
 L	O
 '	O
 hantologie	O
@@ -12268,6 +12768,7 @@ des	O
 années	O
 2000	B-Time
 .	O
+
 Il	O
 se	O
 manifeste	O
@@ -12289,6 +12790,7 @@ les	O
 jeux	O
 vidéo	O
 .	O
+
 Néanmoins	O
 c	O
 '	O
@@ -12317,6 +12819,7 @@ celle	O
 -	O
 ci	O
 .	O
+
 L	O
 '	O
 hantologie	O
@@ -12338,6 +12841,7 @@ provenance	O
 du	O
 passé	O
 .	O
+
 Le	O
 plus	O
 souvent	O
@@ -12352,6 +12856,7 @@ s	O
 avérer	O
 immatérielle	O
 .	O
+
 Composées	O
 ainsi	O
 à	O
@@ -12385,6 +12890,7 @@ s	O
 '	O
 exprimer	O
 .	O
+
 Le	O
 grand	B-Reward
 prix	I-Reward
@@ -12420,6 +12926,7 @@ de	O
 son	O
 œuvre	O
 .	O
+
 Ce	O
 prix	O
 est	O
@@ -12436,6 +12943,7 @@ de	O
 la	O
 société	O
 .	O
+
 Tigherghar	B-Location
 est	O
 une	O
@@ -12448,6 +12956,7 @@ Batna	I-Location
 en	O
 Algérie	B-Location
 .	O
+
 Le	O
 Cream	B-Product
 soda	I-Product
@@ -12467,6 +12976,7 @@ boisson	O
 gazeuse	O
 sucrée	O
 .	O
+
 Son	O
 goût	O
 varie	O
@@ -12485,6 +12995,7 @@ aromatisé	O
 la	O
 vanille	O
 .	O
+
 L	O
 '	O
 énergie	O
@@ -12506,6 +13017,7 @@ territoire	O
 du	O
 Québec	B-Location
 .	O
+
 L	O
 '	O
 idée	O
@@ -12563,6 +13075,7 @@ Hydro	B-Organization
 -	I-Organization
 Québec	I-Organization
 .	O
+
 Gardiens	B-Movie
 de	I-Movie
 l	I-Movie
@@ -12582,6 +13095,7 @@ tourné	O
 en	O
 2009	B-Time
 .	O
+
 Lars	B-Person
 Johan	I-Person
 Heikensten	I-Person
@@ -12604,6 +13118,7 @@ docteur	B-ScienceFunction
 en	I-ScienceFunction
 économie	I-ScienceFunction
 .	O
+
 Shawinigate	B-Event
 est	O
 le	O
@@ -12658,6 +13173,7 @@ Shawinigan	B-Location
 au	O
 Québec	B-Location
 .	O
+
 Tia	B-Person
 Tanaka	I-Person
 ,	O
@@ -12695,6 +13211,7 @@ modèles	O
 de	O
 voitures	O
 .	O
+
 Elle	O
 est	O
 métissée	O
@@ -12702,6 +13219,7 @@ vietnamienne	B-Nation
 et	O
 française	B-Nation
 .	O
+
 Talling	B-Location
 est	O
 une	O
@@ -12724,6 +13242,7 @@ Bernkastel	B-Location
 -	I-Location
 Wittlich	I-Location
 .	O
+
 Portail	O
 de	O
 la	O
@@ -12745,6 +13264,7 @@ Paris	B-Location
 en	O
 France	B-Location
 .	O
+
 Elle	O
 commence	O
 place	B-Location
@@ -12761,6 +13281,7 @@ rue	B-Location
 de	I-Location
 Belleville	I-Location
 .	O
+
 La	O
 discographie	O
 de	O
@@ -12790,6 +13311,7 @@ neuf	O
 clips	O
 vidéo	O
 .	O
+
 Avant	O
 l	O
 '	O
@@ -12810,6 +13332,7 @@ commercialisés	O
 [	O
 réf	O
 .	O
+
 nécessaire	O
 ]	O
 ,	O
@@ -12830,6 +13353,7 @@ Up	B-Product
 saw	I-Product
 liz	I-Product
 .	O
+
 Diamond	B-Organization
 Stars	I-Organization
 Football	I-Organization
@@ -12852,6 +13376,7 @@ est	O
 du	O
 pays	O
 .	O
+
 Yanis	B-Person
 Sahraoui	I-Person
 ,	O
@@ -12883,6 +13408,7 @@ de	O
 pop	O
 français	B-Nation
 .	O
+
 Pierre	B-Person
 Gaudin	I-Person
 ,	O
@@ -12904,6 +13430,7 @@ homme	B-AdministrationFunction
 politique	I-AdministrationFunction
 français	B-Nation
 .	O
+
 Nasikabatrachus	B-Species
 sahyadrensis	I-Species
 est	O
@@ -12924,6 +13451,7 @@ la	O
 famille	O
 Nasikabatrachidae	B-Species
 .	O
+
 Le	O
 Concerto	B-Product
 pour	I-Product
@@ -12952,6 +13480,7 @@ composée	O
 en	O
 1879	B-Time
 .	O
+
 Le	B-Product
 Sauer	I-Product
 &	I-Product
@@ -12969,6 +13498,7 @@ et	O
 la	O
 police	O
 .	O
+
 Il	O
 fut	O
 utilisée	O
@@ -12980,6 +13510,7 @@ en	O
 -	O
 1945	B-Time
 .	O
+
 Rise	B-Movie
 and	I-Movie
 Shine	I-Movie
@@ -12996,6 +13527,7 @@ sorti	O
 en	O
 1941	B-Time
 .	O
+
 Un	O
 bridge	O
 est	O
@@ -13033,6 +13565,7 @@ un	O
 viseur	O
 électronique	O
 .	O
+
 Le	O
 nom	O
 vient	O
@@ -13097,6 +13630,7 @@ et	O
 de	O
 prix	O
 .	O
+
 Un	O
 bridge	O
 dispose	O
@@ -13130,6 +13664,7 @@ une	O
 visée	O
 reflex	O
 .	O
+
 Tabitha	B-Person
 Stevens	I-Person
 ,	O
@@ -13149,6 +13684,7 @@ et	O
 réalisatrice	B-MovieFunction
 américaine	B-Nation
 .	O
+
 Bernard	B-Person
 Dubourdieu	I-Person
 (	O
@@ -13187,6 +13723,7 @@ capitaine	B-MilitariaFunction
 de	I-MilitariaFunction
 vaisseau	I-MilitariaFunction
 .	O
+
 Il	O
 commandait	O
 la	O
@@ -13205,6 +13742,7 @@ trouva	O
 la	O
 mort	O
 .	O
+
 Pieter	B-Person
 Franciscus	I-Person
 Dierckx	I-Person
@@ -13230,6 +13768,7 @@ un	O
 peintre	B-ArtFunction
 belge	B-Nation
 .	O
+
 Martha	B-Person
 Stettler	I-Person
 ,	O
@@ -13291,6 +13830,7 @@ du	O
 même	O
 nom	O
 .	O
+
 Raphael	B-Person
 Raymundo	I-Person
 de	I-Person
@@ -13336,6 +13876,7 @@ en	O
 extérieur	O
 )	O
 .	O
+
 Il	O
 obtient	O
 ses	O
@@ -13349,6 +13890,7 @@ relais	O
 100	O
 mètres	O
 .	O
+
 Sylvie	B-Person
 Legault	
 née	O
@@ -13373,6 +13915,7 @@ de	O
 théâtre	O
 québécoise	O
 .	O
+
 Marie	B-Person
 -	I-Person
 Joseph	I-Person
@@ -13419,6 +13962,7 @@ Première	B-Event
 Guerre	I-Event
 mondiale	I-Event
 .	O
+
 Marion	B-Movie
 est	O
 une	O
@@ -13447,6 +13991,7 @@ juillet	I-Time
 sur	O
 TF1	B-Media
 .	O
+
 Diego	B-Person
 Pisador	I-Person
 (	O
@@ -13473,6 +14018,7 @@ de	O
 la	O
 Renaissance	B-Time
 .	O
+
 La	O
 saison	O
 2012	B-Time
@@ -13491,6 +14037,7 @@ Jupiler	B-Organization
 Pro	I-Organization
 League	I-Organization
 .	O
+
 C	O
 '	O
 est	O
@@ -13521,6 +14068,7 @@ absolu	O
 en	O
 Belgique	B-Location
 .	O
+
 Il	O
 participe	O
 également	O
@@ -13529,6 +14077,7 @@ la	O
 Coupe	B-Event
 Cofidis	I-Event
 .	O
+
 Zoilo	B-Person
 Almonte	I-Person
 (	O
@@ -13555,12 +14104,14 @@ majeure	I-Organization
 de	I-Organization
 baseball	I-Organization
 .	O
+
 Il	O
 est	O
 présentement	O
 agent	O
 libre	O
 .	O
+
 Pazayac	B-Location
 est	O
 une	O
@@ -13580,6 +14131,7 @@ Nouvelle	B-Location
 -	I-Location
 Aquitaine	I-Location
 .	O
+
 La	B-Facility
 fontaine	I-Facility
 des	I-Facility
@@ -13620,6 +14172,7 @@ Halles	I-Location
 arrondissement	O
 )	O
 .	O
+
 De	O
 style	O
 Renaissance	B-Time
@@ -13637,6 +14190,7 @@ déplacée	O
 deux	O
 occasions	O
 .	O
+
 Elle	O
 est	O
 classée	O
@@ -13645,6 +14199,7 @@ historique	O
 depuis	O
 1862	B-Time
 .	O
+
 Ce	O
 site	O
 est	O
@@ -13659,6 +14214,7 @@ Halles	I-Location
 et	O
 Châtelet	B-Location
 .	O
+
 Le	O
 Comité	B-Organization
 national	I-Organization
@@ -13686,6 +14242,7 @@ organisation	O
 du	O
 travail	O
 .	O
+
 Gertrude	B-Person
 Casey	B-Person
 est	O
@@ -13693,6 +14250,7 @@ une	O
 costumière	B-ArtFunction
 américaine	B-Nation
 .	O
+
 Hoëbeke	B-Organization
 est	O
 une	O
@@ -13705,6 +14263,7 @@ créée	O
 en	O
 1984	B-Time
 .	O
+
 Elle	O
 édite	O
 notamment	O
@@ -13743,6 +14302,7 @@ de	O
 Charlie	B-Newspaper
 Hebdo	I-Newspaper
 .	O
+
 Louis	B-Person
 Bastien	I-Person
 ,	O
@@ -13777,6 +14337,7 @@ un	O
 espérantiste	O
 français	B-Nation
 .	O
+
 Il	O
 fut	O
 ,	O
@@ -13807,6 +14368,7 @@ de	O
 à	O
 1947	B-Time
 .	O
+
 Pinsac	B-Location
 est	O
 une	O
@@ -13823,6 +14385,7 @@ en	O
 région	O
 Occitanie	B-Location
 .	O
+
 Elle	O
 fait	O
 partie	O
@@ -13836,6 +14399,7 @@ la	I-Location
 Dordogne	I-Location
 lotoise	I-Location
 .	O
+
 Mazlan	B-Person
 Binti	I-Person
 Othman	I-Person
@@ -13853,6 +14417,7 @@ une	O
 astrophysicienne	B-ScienceFunction
 malaisienne	B-Nation
 .	O
+
 Elle	O
 est	O
 directrice	B-TransversalFunction
@@ -13876,6 +14441,7 @@ poste	O
 en	O
 2007	B-Time
 .	O
+
 Ernest	B-Person
 Reptin	I-Person
 ,	O
@@ -13897,6 +14463,7 @@ homme	B-AdministrativeFunction
 politique	I-AdministrativeFunction
 français	B-Nation
 .	O
+
 David	B-Person
 Leisure	I-Person
 est	O
@@ -13920,6 +14487,7 @@ Californie	B-Location
 Unis	I-Location
 )	O
 .	O
+
 Autumn	B-Product
 Dynasty	I-Product
 est	O
@@ -13948,6 +14516,7 @@ iOS	B-Software
 et	O
 Android	B-Software
 .	O
+
 James	B-Person
 Jerry	I-Person
 Hardy	I-Person
@@ -14009,6 +14578,7 @@ Twins	B-SportsTeam
 du	I-SportsTeam
 Minnesota	I-SportsTeam
 .	O
+
 Ce	O
 joueur	O
 d	O
@@ -14028,6 +14598,7 @@ en	O
 et	O
 2013	B-Time
 .	O
+
 Il	O
 remporte	O
 le	O
@@ -14063,6 +14634,7 @@ position	O
 en	O
 2013	B-Time
 .	O
+
 Stefanie	B-Person
 Böhler	I-Person
 (	O
@@ -14080,6 +14652,7 @@ une	O
 fondeuse	O
 allemande	B-Nation
 .	O
+
 Bolívar	B-Location
 est	O
 une	O
@@ -14094,6 +14667,7 @@ le	O
 avril	I-Time
 1884	I-Time
 .	O
+
 Lone	B-Person
 Wolf	I-Person
 (	O
@@ -14136,6 +14710,7 @@ Nouveau	B-Location
 -	I-Location
 Mexique	I-Location
 .	O
+
 Lone	B-Person
 Wolf	I-Person
 est	O
@@ -14163,6 +14738,7 @@ de	O
 son	O
 peuple	O
 .	O
+
 Joseph	B-Person
 -	I-Person
 Marie	I-Person
@@ -14198,6 +14774,7 @@ précurseur	O
 du	O
 néoclassicisme	O
 .	O
+
 Il	O
 est	O
 le	O
@@ -14211,6 +14788,7 @@ Vien	I-Person
 le	I-Person
 jeune	I-Person
 .	O
+
 Copper	
 est	O
 un	O
@@ -14221,6 +14799,7 @@ réalisé	O
 en	O
 1915	B-Time
 .	O
+
 GCstar	B-Software
 est	O
 une	O
@@ -14238,10 +14817,14 @@ livres	O
 timbres	O
 ,	O
 .	O
+
 .	O
+
 .	O
+
 )	O
 .	O
+
 GCstar	B-Software
 est	O
 le	O
@@ -14257,6 +14840,7 @@ collections	O
 de	O
 films	O
 .	O
+
 Isabelle	B-Person
 Pivert	I-Person
 est	O
@@ -14269,6 +14853,7 @@ née	O
 en	O
 1962	B-Time
 .	O
+
 José	B-Person
 Pedro	I-Person
 Salazar	I-Person
@@ -14293,6 +14878,7 @@ octobre	I-Time
 à	O
 Montijo	B-Location
 .	O
+
 Il	O
 évolue	O
 au	O
@@ -14302,6 +14888,7 @@ milieu	B-SportFunction
 de	B-SportFunction
 terrain	B-SportFunction
 .	O
+
 Torre	B-Location
 en	I-Location
 Cameros	I-Location
@@ -14319,6 +14906,7 @@ Rioja	I-Location
 en	O
 Espagne	B-Location
 .	O
+
 Bombon	B-Location
 est	O
 une	O
@@ -14340,6 +14928,7 @@ région	O
 de	I-Location
 France	I-Location
 .	O
+
 Ses	O
 habitants	O
 sont	O
@@ -14347,6 +14936,7 @@ appelés	O
 les	O
 Bombonnais	B-Location
 .	O
+
 Raymond	B-Person
 Masao	I-Person
 Sawada	I-Person
@@ -14375,6 +14965,7 @@ hockey	O
 sur	O
 glace	O
 .	O
+
 Il	O
 évolue	O
 au	O
@@ -14384,6 +14975,7 @@ d	O
 ailier	B-SportFunction
 droit	I-SportFunction
 .	O
+
 Thomas	B-Person
 Minder	I-Person
 ,	O
@@ -14403,6 +14995,7 @@ homme	B-AdministrationFunction
 politique	I-AdministrationFunction
 suisse	B-Nation
 .	O
+
 Le	O
 Nâdiya	B-Event
 Tour	I-Event
@@ -14419,6 +15012,7 @@ chanteuse	B-MusicFunction
 française	B-Nation
 Nâdiya	B-Person
 .	O
+
 Dave	B-Person
 Smith	I-Person
 est	O
@@ -14443,6 +15037,7 @@ du	O
 système	O
 MIDI	B-Method
 .	O
+
 Un	O
 cendrier	O
 est	O
@@ -14466,6 +15061,7 @@ et	O
 des	O
 cigares	O
 .	O
+
 Les	O
 modèles	O
 les	O
@@ -14481,6 +15077,7 @@ sont	O
 usage	O
 domestique	O
 .	O
+
 Il	O
 existe	O
 cependant	O
@@ -14511,6 +15108,7 @@ aéroports	O
 ,	O
 etc	O
 .	O
+
 )	O
 La	O
 patuline	O
@@ -14539,12 +15137,14 @@ d	O
 Aspergillus	B-Species
 sp	O
 .	O
+
 ,	O
 et	O
 de	O
 Penicillium	O
 sp	O
 .	O
+
 se	O
 développant	O
 notamment	O
@@ -14558,6 +15158,7 @@ ou	O
 des	O
 fruits	O
 .	O
+
 La	O
 présence	O
 de	O
@@ -14576,6 +15177,7 @@ l	O
 '	O
 odeur	O
 .	O
+
 Seule	O
 l	O
 '	O
@@ -14586,6 +15188,7 @@ mettre	O
 en	O
 évidence	O
 .	O
+
 Les	O
 jus	O
 de	O
@@ -14604,6 +15207,7 @@ d	O
 '	O
 aspect	O
 .	O
+
 C	O
 '	O
 est	O
@@ -14630,6 +15234,7 @@ et	O
 difficilement	O
 dégradable	O
 .	O
+
 On	O
 ne	O
 sait	O
@@ -14644,6 +15249,7 @@ organoleptique	O
 des	O
 aliments	O
 .	O
+
 C	O
 '	O
 est	O
@@ -14663,6 +15269,7 @@ l	O
 '	O
 homme	O
 .	O
+
 Les	O
 alcools	O
 forts	O
@@ -14672,6 +15279,7 @@ en	O
 contiennent	O
 plus	O
 .	O
+
 La	O
 transformation	O
 d	O
@@ -14703,6 +15311,7 @@ par	O
 la	O
 pasteurisation	O
 .	O
+
 Frits	B-Person
 Wiersma	I-Person
 (	O
@@ -14737,6 +15346,7 @@ demi
 -	I-SportFunction
 fond	I-SportFunction
 .	O
+
 Il	O
 fut	O
 coureur	B-SportFunction
@@ -14754,6 +15364,7 @@ de	O
 à	O
 1968	B-Time
 .	O
+
 Urticana	B-Species
 est	O
 un	O
@@ -14770,6 +15381,7 @@ famille	O
 des	O
 Actiniidae	B-Species
 .	O
+
 La	O
 rue	B-Location
 Albert	I-Location
@@ -14792,6 +15404,7 @@ arrondissement	O
 de	O
 Paris	B-Location
 .	O
+
 L	O
 '	O
 Institut	B-Organization
@@ -14821,6 +15434,7 @@ Stockholm	B-Location
 en	O
 Suède	B-Location
 .	O
+
 Elle	O
 a	O
 été	O
@@ -14837,6 +15451,7 @@ de	O
 technologie	O
 scandinave	B-Nation
 .	O
+
 Léon	B-Time
 Rosy	I-Time
 est	O
@@ -14859,6 +15474,7 @@ des	O
 films	O
 populaires	O
 .	O
+
 Angelo	B-Person
 Weiss	I-Person
 (	O
@@ -14884,6 +15500,7 @@ skieur	B-SportFunction
 alpin	I-SportFunction
 italien	B-Nation
 .	O
+
 Inger	B-Person
 Edelfeldt	I-Person
 est	O
@@ -14905,6 +15522,7 @@ illustré	O
 plusieurs	O
 livres	O
 .	O
+
 Le	B-Movie
 Flic	I-Movie
 de	I-Movie
@@ -14923,6 +15541,7 @@ Hung	I-Person
 en	O
 1985	B-Time
 .	O
+
 Roman	B-Person
 Ivlev	I-Person
 (	O
@@ -14943,6 +15562,7 @@ de	O
 la	O
 piste	O
 .	O
+
 Marie	B-Person
 -	I-Person
 Emmanuel	I-Person
@@ -14987,6 +15607,7 @@ de	O
 sa	O
 mort	O
 .	O
+
 Il	O
 appartient	O
 à	O
@@ -14999,6 +15620,7 @@ maison	O
 de	O
 Wettin	B-Organization
 .	O
+
 Un	O
 gradiomètre	O
 mesure	O
@@ -15026,6 +15648,7 @@ le	O
 champ	O
 magnétique	O
 .	O
+
 Ce	O
 type	O
 d	O
@@ -15052,6 +15675,7 @@ l	O
 '	O
 instrument	O
 .	O
+
 Wonderland	B-Movie
 est	O
 un	O
@@ -15070,6 +15694,7 @@ de	I-Event
 Cannes	I-Event
 1999	I-Event
 .	O
+
 Eliska	B-Person
 Cross	I-Person
 ,	O
@@ -15087,6 +15712,7 @@ actrice	B-MovieFunction
 pornographique	I-MovieFunction
 française	B-Nation
 .	O
+
 Monreal	B-Location
 est	O
 une	O
@@ -15118,6 +15744,7 @@ l	O
 '	O
 Allemagne	B-Location
 .	O
+
 The	B-Band
 Bouncing	I-Band
 Souls	I-Band
@@ -15139,6 +15766,7 @@ le	O
 New	B-Location
 Jersey	I-Location
 .	O
+
 Formé	O
 en	O
 1987	B-Time
@@ -15165,6 +15793,7 @@ des	O
 morceaux	O
 rapides	O
 .	O
+
 Cette	O
 page	O
 concerne	O
@@ -15176,6 +15805,7 @@ du	O
 calendrier	O
 julien	O
 .	O
+
 Jimma	B-Location
 (	O
 Ge	B-Location
@@ -15199,6 +15829,7 @@ l	O
 '	O
 Oromia	B-Location
 .	O
+
 Catherine	B-Person
 Collard	I-Person
 ,	O
@@ -15219,6 +15850,7 @@ une	O
 pianiste	B-MusicFunction
 française	B-Nation
 .	O
+
 La	O
 Maison	B-Facility
 dite	O
@@ -15240,6 +15872,7 @@ de	O
 la	O
 Drôme	B-Location
 .	O
+
 Yasuzō	B-Person
 Nojima	I-Person
 (	O
@@ -15270,6 +15903,7 @@ un	O
 photographe	B-ArtFunction
 japonais	B-Nation
 .	O
+
 Eduardo	B-Person
 Coutinho	I-Person
 ,	O
@@ -15308,6 +15942,7 @@ et	O
 comédien	B-MovieFunction
 brésilien	B-Nation
 .	O
+
 Pratibha	B-Person
 L	I-Person
 .	I-Person
@@ -15337,6 +15972,7 @@ Royaume	B-Location
 -	I-Location
 Uni	I-Location
 .	O
+
 Elle	O
 est	O
 spécialiste	O
@@ -15346,6 +15982,7 @@ microscopie	O
 en	O
 transmission	O
 .	O
+
 Orville	B-Location
 est	O
 une	O
@@ -15368,6 +16005,7 @@ Bourgogne	B-Location
 Franche	I-Location
 Comté	I-Location
 .	O
+
 Popular	B-Product
 peut	O
 désigner	O
@@ -15400,6 +16038,7 @@ ouest	O
 de	O
 Téhéran	B-Location
 .	O
+
 Máza	B-Location
 est	O
 un	O
@@ -15414,6 +16053,7 @@ Baranya	B-Location
 en	O
 Hongrie	B-Location
 .	O
+
 L	O
 '	O
 ozaphane	O
@@ -15444,6 +16084,7 @@ s	O
 '	O
 enflammer	O
 .	O
+
 La	O
 linguistique	O
 informatique	O
@@ -15473,6 +16114,7 @@ une	O
 perspective	O
 informatique	O
 .	O
+
 Claude	B-Person
 Mediavilla	I-Person
 (	O
@@ -15491,6 +16133,7 @@ et	O
 peintre	B-ArtFunction
 français	B-Nation
 .	O
+
 Pierre	B-Person
 Salva	I-Person
 ,	O
@@ -15513,6 +16156,7 @@ de	O
 roman	O
 policier	O
 .	O
+
 Coryphaspiza	B-Bird
 melanotis	I-Bird
 Le	O
@@ -15536,6 +16180,7 @@ famille	O
 des	O
 Thraupidae	B-Bird
 .	O
+
 Miedes	B-Location
 de	I-Location
 Aragón	I-Location
@@ -15563,6 +16208,7 @@ Comunidad	B-Location
 de	I-Location
 Calatayud	I-Location
 .	O
+
 «	O
 Geki	B-Person
 »	O
@@ -15602,6 +16248,7 @@ juin	I-Time
 à	O
 Caserta	B-Location
 .	O
+
 Tony	B-Person
 Baillargeat	I-Person
 est	O
@@ -15614,6 +16261,7 @@ le	O
 mai	I-Time
 1970	I-Time
 .	O
+
 Le	O
 toreo	O
 comique	O
@@ -15651,6 +16299,7 @@ les	O
 années	O
 1960	B-Time
 .	O
+
 Il	O
 s	O
 '	O
@@ -15673,6 +16322,7 @@ devant	O
 des	O
 veaux	O
 .	O
+
 Souvent	O
 les	O
 toreros	B-SportFunction
@@ -15680,6 +16330,7 @@ sont	O
 des	O
 nains	O
 .	O
+
 On	O
 a	O
 vu	O
@@ -15694,6 +16345,7 @@ des	O
 singes	O
 toreros	O
 .	O
+
 Miranda	B-Fictionalcharacter
 Hobbes	I-Fictionalcharacter
 est	O
@@ -15711,6 +16363,7 @@ par	O
 Cynthia	B-Person
 Nixon	I-Person
 .	O
+
 Elle	O
 est	O
 l	O
@@ -15739,6 +16392,7 @@ Kristin	B-Person
 Davis	I-Person
 )	O
 .	O
+
 Cryptops	B-Species
 hortensis	I-Species
 est	O
@@ -15756,6 +16410,7 @@ famille	O
 des	O
 Cryptopidae	B-Time
 .	O
+
 France	B-Locatihttps://fr.wikipediaon
 ,	O
 la	O
@@ -15795,6 +16450,7 @@ administration	B-Organization
 des	I-Organization
 douanes	I-Organization
 .	O
+
 Dirk	B-Person
 Cussler	I-Person
 ,	O
@@ -15807,6 +16463,7 @@ un	O
 romancier	B-LitteratureFunction
 américain	B-Nation
 .	O
+
 Il	O
 est	O
 essentiellement	O
@@ -15833,6 +16490,7 @@ scène	O
 Dirk	B-Fictionalcharacter
 Pitt	I-Fictionalcharacter
 .	O
+
 Montesquiu	B-Location
 est	O
 une	O
@@ -15886,6 +16544,7 @@ famille	O
 des	O
 Furnariidae	B-Species
 .	O
+
 Il	O
 a	O
 été	O
@@ -15895,6 +16554,7 @@ Gmelin	B-Person
 en	O
 1789	B-Time
 .	O
+
 La	B-Product
 Mulâtresse	I-Product
 Solitude	I-Product
@@ -15918,6 +16578,7 @@ aux	O
 du	I-Organization
 Seuil	I-Organization
 .	O
+
 Il	O
 s	O
 '	O
@@ -15934,6 +16595,7 @@ la	B-Person
 mulâtresse	I-Person
 Solitude	I-Person
 .	O
+
 Bergesserin	B-Location
 est	O
 une	O
@@ -15955,12 +16617,14 @@ Bourgogne	B-Location
 -	I-Location
 Franche	I-Location
 .	O
+
 Ses	O
 habitants	O
 sont	O
 les	O
 Bergesserinois	O
 .	O
+
 Le	O
 théorème	B-Method
 de	I-Method
@@ -16002,6 +16666,7 @@ théorie	B-Method
 des	I-Method
 probabilités	I-Method
 .	O
+
 Lætitia	B-Person
 Moussard	I-Person
 ,	O
@@ -16029,6 +16694,7 @@ poste	O
 de	O
 pivot	O
 .	O
+
 Tassimo	B-Brand
 est	O
 une	O
@@ -16052,6 +16718,7 @@ Kraft	B-Organization
 Foods	I-Organization
 )	O
 .	O
+
 Positionnée	O
 sur	O
 le	O
@@ -16073,6 +16740,7 @@ en	O
 plastique	O
 dur	O
 .	O
+
 La	O
 machine	O
 à	O
@@ -16104,6 +16772,7 @@ Cappuccino	O
 et	O
 autres	O
 .	O
+
 Elle	O
 a	O
 été	O
@@ -16118,6 +16787,7 @@ fabriquée	O
 par	O
 Bosch	B-Brand
 .	O
+
 Coubjours	B-Location
 est	O
 une	O
@@ -16137,6 +16807,7 @@ Nouvelle	B-Location
 -	I-Location
 Aquitaine	I-Location
 .	O
+
 Le	O
 signe	O
 de	O
@@ -16169,6 +16840,7 @@ Querol	I-Person
 médecin	B-MedecineFunction
 catalan	O
 .	O
+
 Le	O
 barrage	B-Facility
 d	I-Facility
@@ -16189,6 +16861,7 @@ bassin	B-Location
 du	I-Location
 Zambèze	I-Location
 .	O
+
 Garçon	B-Product
 ,	I-Product
 un	I-Product
@@ -16209,6 +16882,7 @@ parue	O
 en	O
 1884	B-Time
 .	O
+
 Le	O
 quartier	B-Location
 Saint	I-Location
@@ -16242,6 +16916,7 @@ et	O
 le	O
 port	O
 .	O
+
 Il	O
 s	O
 '	O
@@ -16255,6 +16930,7 @@ Saint	I-Facility
 -	I-Facility
 François	I-Facility
 .	O
+
 Il	O
 s	O
 '	O
@@ -16304,6 +16980,7 @@ de	O
 la	O
 ville	O
 .	O
+
 Croton	B-Species
 damayeshu	I-Species
 est	O
@@ -16330,6 +17007,7 @@ du	O
 Yunnan	B-Location
 )	O
 .	O
+
 Maurice	B-Person
 Guiraud	I-Person
 -	I-Person
@@ -16357,6 +17035,7 @@ et	O
 sculpteur	B-ArtFunction
 français	B-Nation
 .	O
+
 L	O
 '	O
 avenue	B-Location
@@ -16379,6 +17058,7 @@ Paris
 en	O
 France	B-Location
 .	O
+
 Egg	B-Location
 an	I-Location
 der	I-Location
@@ -16407,6 +17087,7 @@ district	O
 de	O
 Souabe	B-Location
 .	O
+
 Portail	O
 de	O
 la	O
@@ -16436,6 +17117,7 @@ de	I-Location
 Loire	I-Location
 )	O
 .	O
+
 Le	O
 réseau	O
 d	O
@@ -16448,6 +17130,7 @@ de	O
 à	O
 2017	B-Time
 .	O
+
 Michael	B-Person
 Dinner	I-Person
 est	O
@@ -16476,6 +17159,7 @@ coup	I-Product
 de	I-Product
 cœur	I-Product
 .	O
+
 Anophthalmus	B-Species
 est	O
 un	O
@@ -16488,6 +17172,7 @@ famille	O
 des	O
 Carabidae	B-Species
 .	O
+
 Ruppertshofen	B-Location
 est	O
 une	O
@@ -16519,6 +17204,7 @@ l	O
 '	O
 Allemagne	I-Location
 .	O
+
 Instruction	B-Product
 générale	I-Product
 est	O
@@ -16538,6 +17224,7 @@ obra	I-Product
 zovanie	I-Product
 )	O
 .	O
+
 The	B-Band
 Vaccines	I-Band
 est	O
@@ -16555,6 +17242,7 @@ Londres	B-Location
 en	O
 Angleterre	B-Location
 .	O
+
 Le	O
 premier	O
 album	O
@@ -16586,6 +17274,7 @@ classements	O
 musicaux	O
 britanniques	B-Nation
 .	O
+
 Methanimicrococcus	B-Species
 est	O
 un	O
@@ -16629,6 +17318,7 @@ la	O
 méthylamine	O
 CH3NH2	O
 .	O
+
 Yann	B-Person
 Gael	I-Person
 ,	O
@@ -16656,6 +17346,7 @@ un	O
 acteur	B-MovieFunction
 français	B-Nation
 .	O
+
 L	B-Product
 '	I-Product
 Huissier	I-Product
@@ -16677,6 +17368,7 @@ sur	O
 Antenne	B-Media
 2	I-Media
 .	O
+
 Anne	B-Person
 Jolivet	I-Person
 est	O
@@ -16694,6 +17386,7 @@ juin	I-Time
 à	O
 Metz	B-Location
 .	O
+
 Interprète	B-TransversalFunction
 à	O
 l	O
@@ -16718,6 +17411,7 @@ vents	I-Movie
 1970	B-Time
 )	O
 .	O
+
 Active	O
 également	O
 dans	O
@@ -16739,6 +17433,7 @@ et	O
 Kathleen	B-Person
 Turner	I-Person
 .	O
+
 Jeffery	B-Person
 Stephen	I-Person
 Mathis	I-Person
@@ -16767,6 +17462,7 @@ majeure	I-Organization
 de	I-Organization
 baseball	I-Organization
 .	O
+
 Le	O
 Sinar	B-Facility
 Mas	I-Facility
@@ -16787,6 +17483,7 @@ Shangai	B-Location
 en	O
 Chine	B-Location
 .	O
+
 Trinomys	B-Species
 gratiosus	I-Species
 est	O
@@ -16811,6 +17508,7 @@ d	O
 Amérique	I-Location
 latine	I-Location
 .	O
+
 Francisco	B-Person
 López	I-Person
 Contardo	I-Person
@@ -16842,6 +17540,7 @@ d	O
 enduro	O
 chilien	B-Nation
 .	O
+
 Au	O
 Rallye	B-Event
 Dakar	I-Event
@@ -16874,6 +17573,7 @@ en	O
 et	O
 2012	B-Time
 .	O
+
 Mistura	B-Species
 perplexa	I-Species
 ,	O
@@ -16905,6 +17605,7 @@ Dysderidae	B-Species
 est	O
 incertain	O
 .	O
+
 West	B-Location
 Chester	I-Location
 est	O
@@ -16929,6 +17630,7 @@ est	O
 le	O
 siège	O
 .	O
+
 Elle	O
 compte	O
 18461	O
@@ -16946,6 +17648,7 @@ de	O
 8	I-Measure
 km2	I-Measure
 .	O
+
 Un	O
 émissaire	O
 ou	O
@@ -16976,6 +17679,7 @@ tel	O
 un	O
 lac	O
 .	O
+
 On	O
 peut	O
 aussi	O
@@ -16994,6 +17698,7 @@ d	O
 '	O
 eau	O
 .	O
+
 Chien	B-Product
 -	I-Product
 de	I-Product
@@ -17013,6 +17718,7 @@ L	I-Person
 '	I-Person
 Homme	I-Person
 .	O
+
 Il	O
 s	O
 '	O
@@ -17027,6 +17733,7 @@ Maîtres	I-Product
 des	I-Product
 brisants	I-Product
 .	O
+
 Il	O
 a	O
 été	O
@@ -17039,6 +17746,7 @@ le	O
 mars	I-Time
 2003	B-Time
 .	O
+
 Il	O
 s	O
 '	O
@@ -17048,6 +17756,7 @@ d	O
 une	O
 trilogie	O
 .	O
+
 Channel	B-Album
 Zero	I-Album
 ,	O
@@ -17068,6 +17777,7 @@ belge	B-Nation
 Channel	B-Band
 Zero	I-Band
 .	O
+
 Noah	B-Person
 Gray	I-Person
 -	I-Person
@@ -17087,6 +17797,7 @@ novembre	I-Time
 à	O
 Chicago	B-Location
 .	O
+
 Griffes	B-Product
 et	I-Product
 plumes	I-Product
@@ -17108,6 +17819,7 @@ publié	O
 en	O
 2007	B-Time
 .	O
+
 Dibombari	B-Location
 est	O
 ville	O
@@ -17128,6 +17840,7 @@ région	O
 du	O
 Littoral	B-Location
 .	O
+
 Elle	O
 comporte	O
 chefferie	O
@@ -17136,6 +17849,7 @@ de	O
 premier	O
 degré	O
 .	O
+
 Mark	B-Person
 Edward	I-Person
 Waugh	I-Person
@@ -17157,6 +17871,7 @@ de	O
 cricket	O
 australien	B-Nation
 .	O
+
 Il	O
 joua	O
 pour	O
@@ -17199,6 +17914,7 @@ la	O
 sélection	O
 australienne	B-Nation
 .	O
+
 Il	O
 était	O
 réputé	O
@@ -17212,6 +17928,7 @@ aussi	O
 de	O
 fielder	B-SportFunction
 .	O
+
 Cette	O
 page	O
 concerne	O
@@ -17238,6 +17955,7 @@ l	I-Location
 '	I-Location
 Alberta	I-Location
 .	O
+
 Teroele	B-Location
 est	O
 un	O
@@ -17258,6 +17976,7 @@ province	B-Location
 de	ILocation
 Frise	I-Location
 .	O
+
 Son	O
 nom	O
 en	O
@@ -17265,6 +17984,7 @@ frison	O
 est	O
 Teroele	B-Location
 .	O
+
 Panus	B-Species
 est	O
 un	O
@@ -17278,6 +17998,7 @@ famille	O
 des	O
 polyporacées	B-Species
 .	O
+
 Mickey	B-Person
 Hart	I-Person
 (	O
@@ -17298,6 +18019,7 @@ un	O
 musicologue	B-MusicFunction
 américain	B-Nation
 .	O
+
 Il	O
 est	O
 connu	O
@@ -17314,6 +18036,7 @@ de	O
 Grateful	B-Person
 Dead	I-Person
 .	O
+
 Bill	B-Person
 Kreutzmann	I-Person
 et	O
@@ -17328,6 +18051,7 @@ Rhythm	B-Person
 Devils	I-Person
 »	O
 .	O
+
 Une	O
 tonne	O
 est	O
@@ -17337,6 +18061,7 @@ et	O
 large	O
 tonneau	O
 .	O
+
 Le	O
 terme	O
 désigne	O
@@ -17371,6 +18096,7 @@ purin	O
 du	O
 lisier	O
 .	O
+
 Le	O
 Ceglédi	B-SportsTeam
 KKSE	I-SportsTeam
@@ -17392,6 +18118,7 @@ Nemzeti	B-Event
 Bajnokság	I-Event
 I	I-Event
 .	O
+
 Tchestevo	B-Location
 (	O
 en	O
@@ -17418,6 +18145,7 @@ municipalité	B-Location
 de	I-Location
 Valandovo	I-Location
 .	O
+
 Le	O
 village	O
 ne	O
@@ -17427,6 +18155,7 @@ habitant	O
 en	O
 2002	B-Time
 .	O
+
 La	O
 4e	B-Event
 édition	I-Event
@@ -17451,6 +18180,7 @@ au	O
 février	I-Time
 2009	I-Time
 .	O
+
 La	O
 victoire	O
 est	O
@@ -17469,6 +18199,7 @@ la	O
 troisième	O
 fois	O
 .	O
+
 L	O
 '	O
 épreuve	O
@@ -17482,6 +18213,7 @@ America	I-Event
 Tour	I-Event
 2009	I-Event
 .	O
+
 Essência	B-Album
 est	O
 le	O
@@ -17502,6 +18234,7 @@ Records	I-Organization
 au	O
 Portugal	B-Location
 .	O
+
 Annick	B-Person
 Alane	I-Person
 est	O
@@ -17521,6 +18254,7 @@ Carnac	B-Location
 Morbihan	B-Location
 )	O
 .	O
+
 Elle	O
 est	O
 la	O
@@ -17532,6 +18266,7 @@ et	O
 Valérie	B-Person
 Alane	I-Person
 .	O
+
 Diego	B-Person
 Bejarano	I-Person
 Ibañez	I-Person
@@ -17562,6 +18297,7 @@ milieu	B-SportFunction
 de	I-SportFunction
 terrain	I-SportFunction
 .	O
+
 Corcelles	B-Location
 -	I-Location
 le	I-Location
@@ -17585,6 +18321,7 @@ Broye	I-Location
 -	I-Location
 Vully	I-Location
 .	O
+
 Citée	O
 dès	O
 1140	B-Time
@@ -17602,6 +18339,7 @@ entre	O
 et	O
 2007	B-Time
 .	O
+
 La	O
 commune	O
 est	O
@@ -17612,6 +18350,7 @@ habitants	O
 en	O
 2016	B-Time
 .	O
+
 Son	O
 territoire	O
 ,	O
@@ -17631,6 +18370,7 @@ région	O
 du	O
 Jorat	I-Location
 .	O
+
 Kapolondougou	B-Location
 est	O
 une	O
@@ -17647,6 +18387,7 @@ région	O
 de	O
 Sikasso	I-Location
 .	O
+
 Jean	B-Person
 Kunckel	I-Person
 de	O
@@ -17680,6 +18421,7 @@ technicien	B-ScienceFunction
 du	O
 vitrail	O
 .	O
+
 Nicolas	B-Person
 -	I-Person
 Jean	I-Person
@@ -17713,6 +18455,7 @@ de	O
 cette	O
 ville	O
 .	O
+
 Le	O
 Fairey	B-Product
 Gordon	I-Product
@@ -17734,6 +18477,7 @@ entreprise	O
 britannique	B-Nation
 Fairey	B-Organization
 .	O
+
 Minilimosina	B-Species
 fungicola	I-Species
 est	O
@@ -17747,6 +18491,7 @@ famille	O
 des	O
 Sphaeroceridae	B-Species
 .	O
+
 La	O
 route	B-TransportLine
 du	I-TransportLine
@@ -17793,6 +18538,7 @@ ni	O
 fleuve	O
 majeur	O
 .	O
+
 Radosław	B-Person
 Glonek	I-Person
 ,	O
@@ -17812,6 +18558,7 @@ pratiquant	O
 le	O
 fleuret	O
 .	O
+
 Geert	B-Person
 Buelens	I-Person
 ,	O
@@ -17836,6 +18583,7 @@ d	O
 expression	O
 néerlandaise	B_Nation
 .	O
+
 Depuis	O
 mai	B-Time
 2005	I-Time
@@ -17854,6 +18602,7 @@ d	I-Organization
 '	I-Organization
 Utrecht	I-Organization
 .	O
+
 Black	B-Organization
 International	I-Organization
 était	O
@@ -17895,6 +18644,7 @@ l	O
 anarchisme	O
 )	O
 .	O
+
 Graeme	B-Person
 Revell	I-Person
 est	O
@@ -17917,6 +18667,7 @@ Nouvelle	B-Location
 Zélande	I-Location
 )	O
 .	O
+
 Dans	O
 sa	O
 jeunesse	O
@@ -17931,6 +18682,7 @@ musique	O
 industrielle	O
 SPK	B-Band
 .	O
+
 Il	O
 s	O
 '	O
@@ -17967,6 +18719,7 @@ et	O
 Robert	B-Person
 Rodriguez	I-Person
 .	O
+
 La	B-Movie
 Prise	I-Movie
 de	I-Movie
@@ -17986,6 +18739,7 @@ du	O
 cinéma	O
 muet	O
 .	O
+
 C	O
 '	O
 est	O
@@ -17999,6 +18753,7 @@ environ	O
 une	O
 minute	O
 .	O
+
 L	O
 '	O
 équipe	B-SportsTeam
@@ -18039,6 +18794,7 @@ Angleterre	I-Organization
 de	I-Organization
 football	I-Organization
 .	O
+
 Cette	O
 équipe	O
 a	O
@@ -18057,6 +18813,7 @@ de	I-Event
 19	I-Event
 ans	I-Event
 .	O
+
 Stéphane	B-Person
 Charbonnier	I-Person
 ,	O
@@ -18094,6 +18851,7 @@ janvier	I-Time
 à	O
 Paris	B-Location
 .	O
+
 Il	O
 entre	O
 à	O
@@ -18106,6 +18864,7 @@ Hebdo	I-Media
 en	O
 1992	B-Time
 .	O
+
 Ses	O
 dessins	O
 apparaissent	O
@@ -18118,6 +18877,7 @@ publie	O
 plusieurs	O
 ouvrages	O
 .	O
+
 Charb	B-Person
 devient	O
 directeur	O
@@ -18130,6 +18890,7 @@ Hebdo	I-Media
 en	O
 2009	B-Time
 .	O
+
 Il	O
 meurt	O
 assassiné	O
@@ -18146,6 +18907,7 @@ contre	O
 Charlie	B-Media
 Hebdo	I-Media
 .	O
+
 La	O
 reconstruction	B-Method
 3D	I-Method
@@ -18209,6 +18971,7 @@ de	O
 la	O
 scène	O
 .	O
+
 D	O
 '	O
 une	O
@@ -18264,6 +19027,7 @@ espace	O
 réel	O
 3D	O
 .	O
+
 Dans	O
 le	O
 cadre	O
@@ -18310,6 +19074,7 @@ l	O
 '	O
 image	O
 .	O
+
 Le	O
 Championnat	B-Event
 d	I-Event
@@ -18328,6 +19093,7 @@ de	O
 ce	O
 championnat	O
 .	O
+
 Cet	O
 article	O
 recense	O
@@ -18355,6 +19121,7 @@ serbe	I-Location
 de	I-Location
 Bosnie	I-Location
 .	O
+
 La	O
 liste	O
 établie	O
@@ -18385,6 +19152,7 @@ une	O
 liste	O
 provisoire	O
 .	O
+
 Jean	B-Person
 -	I-Person
 Pierre	I-Person
@@ -18418,6 +19186,7 @@ patrie	O
 des	O
 Canuts	O
 .	O
+
 L	O
 '	O
 équipe	O
@@ -18436,6 +19205,7 @@ meilleurs	O
 joueurs	O
 andorrans	B-Nation
 .	O
+
 La	O
 formation	O
 participe	O
@@ -18476,6 +19246,7 @@ d	I-Event
 '	I-Event
 Europe	I-Event
 .	O
+
 Andorre	B-Location
 est	O
 membre	O
@@ -18485,6 +19256,7 @@ FIBA	B-Organization
 depuis	O
 1988	B-Time
 .	O
+
 La	O
 4e	B-Event
 édition	I-Event
@@ -18509,6 +19281,7 @@ Tunisie	B-Location
 en	O
 1981	B-Time
 .	O
+
 Le	O
 tournoi	O
 réunit	O
@@ -18521,6 +19294,7 @@ handball	O
 en	O
 Afrique	B-Location
 .	O
+
 Ce	O
 championnat	O
 sert	O
@@ -18533,6 +19307,7 @@ du	I-Event
 monde	I-Event
 1982	I-Event
 .	O
+
 Pavel	B-Person
 Haas	I-Person
 (	O
@@ -18557,6 +19332,7 @@ un	O
 compositeur	B-MusicFunction
 tchèque	B-Nation
 .	O
+
 Taipalsaari	B-Location
 est	O
 une	O
@@ -18569,6 +19345,7 @@ de	O
 la	O
 Finlande	B-Location
 .	O
+
 La	O
 commune	O
 se	O
@@ -18587,6 +19364,7 @@ Carélie	B-Location
 du	I-Location
 Sud	I-Location
 .	O
+
 Le	O
 château	B-Facility
 de	I-Facility
@@ -18624,6 +19402,7 @@ Nouvelle	B-Location
 -	I-Location
 Aquitaine	I-Location
 .	O
+
 Le	O
 château	O
 fait	O
@@ -18640,6 +19419,7 @@ des	O
 monuments	O
 historiques	O
 .	O
+
 Rongy	B-Location
 (	O
 en	O
@@ -18668,6 +19448,7 @@ la	O
 frontière	O
 française	B-Nation
 .	O
+
 Administrativement	O
 il	O
 fait	O
@@ -18692,6 +19473,7 @@ de	O
 Belgique	B-Location
 )	O
 .	O
+
 Rongy	B-Location
 était	O
 une	O
@@ -18707,6 +19489,7 @@ communes	I-Event
 de	I-Event
 1977	I-Event
 .	O
+
 Henri	B-Person
 Blary	I-Person
 homme	B-AdministrationFunction
@@ -18740,6 +19523,7 @@ homme	B-AdministrationFunction
 politique	I-AdministrationFunction
 français	B-Nation
 .	O
+
 Copperhead	B-Movie
 est	O
 un	O
@@ -18752,6 +19536,7 @@ sorti	O
 en	O
 2013	B-Time
 .	O
+
 Il	O
 a	O
 été	O
@@ -18760,6 +19545,7 @@ par	O
 Ron	B-Person
 Maxwell	I-Person
 .	O
+
 Kamil	B-Person
 Pietras	I-Person
 ,	O
@@ -18785,6 +19571,7 @@ basket	O
 -	O
 ball	O
 .	O
+
 Il	O
 évolue	O
 durant	O
@@ -18795,6 +19582,7 @@ poste	O
 de	O
 pivot	O
 .	O
+
 Halosaurus	B-Species
 avenii	I-Species
 est	O
@@ -18804,6 +19592,7 @@ de	O
 poissons	B-Species
 téléostéens	I-Species
 .	O
+
 Emma	B-Person
 Roldán	I-Person
 ,	O
@@ -18839,6 +19628,7 @@ de	O
 costumes	O
 mexicaine	B-Nation
 .	O
+
 Dans	O
 le	O
 domaine	O
@@ -18872,6 +19662,7 @@ granulats	O
 répandues	O
 successivement	O
 .	O
+
 Guerman	B-Location
 ou	O
 German	B-Location
@@ -18900,6 +19691,7 @@ municipalité	B-Location
 de	I-Location
 Rankovtsé	I-Location
 .	O
+
 Le	O
 village	O
 comptait	O
@@ -18908,6 +19700,7 @@ habitants	O
 en	O
 2002	B-Time
 .	O
+
 CuartaVisión	B-Media
 ,	O
 est	O
@@ -18920,6 +19713,7 @@ câble	O
 regionale	O
 chilienne	B-Nation
 .	O
+
 Paruroctonus	B-Species
 simulatus	I-Species
 est	O
@@ -18933,6 +19727,7 @@ famille	O
 des	O
 Vaejovidae	B-Species
 .	O
+
 La	O
 saison	B-Event
 2013	I-Event
@@ -18970,6 +19765,7 @@ sigle	O
 NBA	B-Organization
 )	O
 .	O
+
 Fernand	B-Person
 Fabre	I-Person
 ,	O
@@ -19004,6 +19800,7 @@ le	O
 novembre	I-Time
 1899	I-Time
 .	O
+
 Il	O
 meurt	O
 à	O
@@ -19017,6 +19814,7 @@ le	O
 janvier	I-Time
 1987	I-Time
 .	O
+
 Garnett	B-Person
 Weston	I-Person
 est	O
@@ -19040,6 +19838,7 @@ en	O
 octobre	B-Time
 1980	I-Time
 .	O
+
 Cette	O
 page	O
 concerne	O
@@ -19051,6 +19850,7 @@ du	O
 calendrier	O
 julien	O
 .	O
+
 La	O
 schwere	B-Organization
 Panzer	I-Organization
@@ -19076,6 +19876,7 @@ le	O
 février	I-Time
 1943	I-Time
 .	O
+
 Le	O
 bataillon	O
 combat	O
@@ -19087,6 +19888,7 @@ l	I-Event
 '	I-Event
 Est	I-Event
 .	O
+
 Chen	B-Person
 Jin	I-Person
 (	O
@@ -19133,6 +19935,7 @@ l	O
 de	O
 Chine	B-Location
 .	O
+
 En	O
 2008	B-Time
 ,	O
@@ -19156,6 +19959,7 @@ simple	O
 homme	O
 »	O
 .	O
+
 Le	O
 29	B-Time
 août	I-Time
@@ -19198,6 +20002,7 @@ demi	O
 -	O
 finale	O
 .	O
+
 Ad	B-Software
 -	I-Software
 Aware	I-Software
@@ -19236,6 +20041,7 @@ spyware	O
 malware	O
 )	O
 .	O
+
 Il	O
 détecte	O
 également	O
@@ -19252,6 +20058,7 @@ autres	O
 logiciels	O
 malveillants	O
 .	O
+
 Andrea	B-Person
 Mayer	I-Person
 ,	O
@@ -19275,6 +20082,7 @@ raid	O
 de	O
 motocross	O
 .	O
+
 Elle	O
 est	O
 la	O
@@ -19283,6 +20091,7 @@ de	O
 Stéphane	B-Person
 Peterhansel	I-Person
 .	O
+
 Ambassadeur	B-NoblessFunction
 de	I-NoblessFunction
 bonne	I-NoblessFunction
@@ -19307,6 +20116,7 @@ d	O
 '	O
 honneur	O
 .	O
+
 L	O
 '	O
 ambassadeur	B-NoblessFunction
@@ -19332,6 +20142,7 @@ idéal	O
 titre	O
 gracieux	O
 .	O
+
 Maurice	B-Person
 Cohen	I-Person
 ,	O
@@ -19376,6 +20187,7 @@ en	O
 Ligue	B-Event
 1	I-Event
 .	O
+
 Le	O
 canton	B-Location
 de	I-Location
@@ -19400,6 +20212,7 @@ la	O
 région	O
 Aquitaine	B-Location
 .	O
+
 La	O
 daïra	B-Location
 de	I-Location
@@ -19421,6 +20234,7 @@ région	O
 du	O
 Titteri	I-Location
 .	O
+
 Son	O
 chef	O
 -	O
@@ -19434,6 +20248,7 @@ commune	O
 de	O
 Seghouane	B-Location
 .	O
+
 La	O
 daïra	O
 regroupe	O
@@ -19450,6 +20265,7 @@ et	O
 Tlatet	B-Location
 Eddouar	I-Location
 .	O
+
 Coire	B-Location
 (	O
 en	O
@@ -19486,6 +20302,7 @@ région	O
 de	O
 Plessur	B-Location
 .	O
+
 La	O
 Bundesstraße	B-Location
 30	I-Location
@@ -19505,6 +20322,7 @@ Ulm	I-Location
 à	O
 Friedrichshafen	B-Location
 .	O
+
 Sauce	B-Person
 Money	I-Person
 ,	O
@@ -19527,6 +20345,7 @@ Brooklyn	B-Location
 New	B-Location
 York	I-Location
 .	O
+
 Il	O
 est	O
 surtout	O
@@ -19544,6 +20363,7 @@ Jay	B-Person
 -	I-Person
 Z	I-Person
 .	O
+
 Edgar	B-Person
 Hilsenrath	I-Person
 ,	O
@@ -19582,6 +20402,7 @@ la	I-Product
 pensée	I-Product
 dernière	I-Product
 .	O
+
 Le	O
 Matrixx	B-SportsTeam
 Magixx	I-SportsTeam
@@ -19607,6 +20428,7 @@ depuis	O
 cette	O
 date	O
 .	O
+
 The	B-Album
 Incredible	I-Album
 Kai	I-Album
@@ -19636,6 +20458,7 @@ label	O
 Impulse	B-Organization
 !	I-Organization
 .	O
+
 Victor	B-Product
 est	O
 une	O
@@ -19647,6 +20470,7 @@ pour	O
 la	O
 jeunesse	O
 .	O
+
 Scénario	O
 ,	O
 dessins	O
@@ -19683,6 +20507,7 @@ l	O
 '	O
 Union	B-Organization
 .	O
+
 Il	O
 est	O
 enterré	O
@@ -19694,6 +20519,7 @@ d	I-Facility
 '	I-Facility
 Arlington	I-Facility
 .	O
+
 L	O
 '	O
 aposiopèse	O
@@ -19756,6 +20582,7 @@ de	O
 la	O
 compléter	O
 .	O
+
 L	O
 '	O
 aposiopèse	O
@@ -19774,6 +20601,7 @@ immédiate	O
 du	O
 discours	O
 .	O
+
 L	O
 '	O
 aposiopèse	O
@@ -19789,6 +20617,7 @@ de	O
 la	O
 suspension	O
 .	O
+
 Le	O
 GD	B-Software
 -	I-Software
@@ -19834,6 +20663,7 @@ Chihiro	B-Software
 et	O
 Triforce	B-Software
 .	O
+
 L	O
 '	O
 hémospermie	O
@@ -19850,6 +20680,7 @@ dans	O
 le	O
 sperme	O
 .	O
+
 Il	O
 s	O
 '	O
@@ -19879,6 +20710,7 @@ une	O
 prostatite	O
 subaiguë	O
 .	O
+
 Le	O
 sang	O
 est	O
@@ -19895,6 +20727,7 @@ l	O
 '	O
 éjaculation	O
 .	O
+
 Le	O
 sperme	O
 peut	O
@@ -19912,6 +20745,7 @@ hémorragie	O
 est	O
 ancienne	O
 .	O
+
 Quel	O
 que	O
 soit	O
@@ -19940,6 +20774,7 @@ de	O
 la	O
 prostate	O
 .	O
+
 Sur	O
 un	O
 clavier	O
@@ -19971,6 +20806,7 @@ et	O
 la	O
 droite	O
 .	O
+
 Ces	O
 quatre	O
 touches	O
@@ -20003,6 +20839,7 @@ le	O
 sens	O
 vertical	O
 .	O
+
 Dans	O
 certains	O
 jeux	O
@@ -20083,6 +20920,7 @@ la	O
 main	O
 droite	O
 .	O
+
 À	O
 l	O
 '	O
@@ -20120,6 +20958,7 @@ touches	O
 de	O
 repos	O
 .	O
+
 Christine	B-Person
 Conix	I-Person
 ,	O
@@ -20139,6 +20978,7 @@ architecte	B-BuilderFunction
 belge	B-Nation
 ,	O
 .	O
+
 Carmen	B-Person
 Alice	I-Person
 Acosta	I-Person
@@ -20157,6 +20997,7 @@ une	O
 harpiste	B-MusicFunction
 paraguayenne	B-Nation
 .	O
+
 Elle	O
 joue	O
 de	O
@@ -20164,6 +21005,7 @@ la	O
 harpe	O
 paraguayenne	B-Nation
 .	O
+
 I	B-Song
 Need	I-Song
 You	I-Song
@@ -20189,6 +21031,7 @@ One	I-Album
 de	O
 1966	B-Time
 .	O
+
 Callistopteris	B-Species
 polyantha	I-Species
 est	O
@@ -20200,6 +21043,7 @@ famille	O
 des	O
 Hyménophyllacées	B-Species
 .	O
+
 Le	O
 NSE	O
 20	O
@@ -20213,6 +21057,7 @@ bourse	O
 de	O
 Nairobi	B-Location
 .	O
+
 Il	O
 se	O
 compose	O
@@ -20224,6 +21069,7 @@ boursières	O
 du	O
 pays	O
 .	O
+
 La	O
 mine	B-Facility
 de	I-Facility
@@ -20245,6 +21091,7 @@ aux	O
 -	I-Location
 Unis	I-Location
 .	O
+
 Elle	O
 est	O
 détenue	O
@@ -20267,6 +21114,7 @@ millions	I-Measure
 de	I-Measure
 $	I-Measure
 .	O
+
 Elle	O
 produit	O
 approximativement	O
@@ -20279,6 +21127,7 @@ charbon	O
 par	O
 an	O
 .	O
+
 La	O
 Sota	B-Location
 est	O
@@ -20300,6 +21149,7 @@ d	O
 '	O
 Alibori	B-Location
 .	O
+
 C	O
 '	O
 est	O
@@ -20311,6 +21161,7 @@ en	O
 rive	O
 droite	O
 .	O
+
 La	B-Album
 Source	I-Album
 est	O
@@ -20328,6 +21179,7 @@ en	O
 novembre	B-Time
 2007	I-Time
 .	O
+
 C	O
 '	O
 est	O
@@ -20340,6 +21192,7 @@ avec	O
 titres	O
 inédits	O
 .	O
+
 Monteviale	B-Location
 est	O
 une	O
@@ -20371,6 +21224,7 @@ nord	O
 -	O
 orientale	O
 .	O
+
 La	O
 chapelle	B-Facility
 des	I-
@@ -20413,6 +21267,7 @@ de	O
 La	B-Location
 Clusaz	I-Location
 .	O
+
 Petrovo	B-Location
 (	O
 en	O
@@ -20439,6 +21294,7 @@ municipalité	B-Location
 de	I-Location
 Guevgueliya	I-Location
 .	O
+
 Le	O
 village	O
 comptait	O
@@ -20447,6 +21303,7 @@ habitants	O
 en	O
 2002	B-Time
 .	O
+
 En	O
 mathématiques	O
 ,	O
@@ -20482,6 +21339,7 @@ diagonaux	O
 ou	O
 verticaux	O
 .	O
+
 Ces	O
 nombres	O
 sont	O
@@ -20503,6 +21361,7 @@ et	O
 aussi	O
 historien	B-ScienceFunction
 .	O
+
 Microhydromys	B-Species
 est	O
 un	O
@@ -20517,6 +21376,7 @@ famille	O
 des	O
 Murinés	B-Species
 .	O
+
 Brognard	B-Location
 est	O
 une	O
@@ -20536,6 +21396,7 @@ Bourgogne	B-Location
 Franche	I-Location
 Comté	I-Location
 .	O
+
 Ses	O
 habitants	O
 se	O
@@ -20545,6 +21406,7 @@ Brognardais	O
 et	O
 Brognardaises	O
 .	O
+
 Alhaji	B-Person
 Mohammed	I-Person
 ,	O
@@ -20565,6 +21427,7 @@ basket	O
 -	O
 ball	O
 .	O
+
 Belemnitida	B-Species
 est	O
 un	O
@@ -20586,6 +21449,7 @@ aux	O
 seiches	B-Species
 actuelles	O
 .	O
+
 Ces	O
 animaux	O
 nageurs	O
@@ -20598,6 +21462,7 @@ sans	O
 doute	O
 carnivores	O
 .	O
+
 Ils	O
 ont	O
 disparu	O
@@ -20611,6 +21476,7 @@ Crétacé	I-Event
 -	I-Event
 Tertiaire	I-Event
 .	O
+
 Paea	B-Person
 Fa	I-Person
 '	I-Person
@@ -20646,6 +21512,7 @@ poste	O
 de	O
 pilier	B-SportFunction
 .	O
+
 Il	O
 compte	O
 plusieurs	O
@@ -20659,6 +21526,7 @@ rugby	O
 à	O
 XV	O
 .	O
+
 Antonio	B-Person
 María	I-Person
 Rouco	I-Person
@@ -20705,6 +21573,7 @@ l	O
 aile	O
 conservatrice	O
 .	O
+
 Bucine	B-Location
 est	O
 une	O
@@ -20721,6 +21590,7 @@ Toscane	B-Location
 Italie	B-Location
 )	O
 .	O
+
 Boman	B-Person
 Irani	I-Person
 ,	O
@@ -20737,6 +21607,7 @@ un	O
 acteur	B-MovieFunction
 indien	B-Nation
 .	O
+
 Après	O
 avoir	O
 été	O
@@ -20770,6 +21641,7 @@ comique	O
 que	O
 négatif	O
 .	O
+
 Hans	B-Person
 -	I-Person
 Joachim	I-Person
@@ -20793,6 +21665,7 @@ l	I-Location
 '	I-Location
 Ouest	I-Location
 .	O
+
 Il	O
 est	O
 le	O
@@ -20815,6 +21688,7 @@ avant	O
 -	O
 guerre	O
 .	O
+
 Maddalena	B-Person
 Casulana	I-Person
 (	O
@@ -20841,6 +21715,7 @@ de	O
 la	O
 Renaissance	B-Event
 .	O
+
 Elle	O
 est	O
 la	O
@@ -20852,6 +21727,7 @@ avoir	O
 été	O
 publiée	O
 .	O
+
 Rafael	B-Person
 Hui	I-Person
 Si	I-Person
@@ -20872,6 +21748,7 @@ hong	O
 -	O
 kongais	O
 .	O
+
 Élodie	B-Person
 de	I-Person
 Sélys	I-Person
@@ -20896,6 +21773,7 @@ de	O
 télévision	O
 belge	B-Nation
 .	O
+
 Les	O
 grandes	B-Facility
 Boucheries	I-Facility
@@ -20916,6 +21794,7 @@ Bas	B-Location
 -	I-Location
 Rhin	I-Location
 .	O
+
 Emma	B-Person
 Kenney	I-Person
 est	O
@@ -20928,6 +21807,7 @@ le	O
 septembre	I-Time
 1999	I-Time
 .	O
+
 Anna	B-Person
 Świrszczyńska	I-Person
 (	O
@@ -20987,6 +21867,7 @@ encore	O
 la	O
 sensualité	O
 .	O
+
 Le	O
 terme	O
 de	O
@@ -21019,6 +21900,7 @@ connue	O
 a	O
 priori	O
 .	O
+
 Par	O
 exemple	O
 ,	O
@@ -21053,6 +21935,7 @@ l	O
 '	O
 univers	O
 .	O
+
 Un	O
 modèle	O
 cosmologique	O
@@ -21090,6 +21973,7 @@ ensemble	O
 des	O
 observations	O
 .	O
+
 Tous	O
 les	O
 paramètres	O
@@ -21099,6 +21983,7 @@ sont	O
 pas	O
 indépendants	O
 .	O
+
 Par	O
 exemple	O
 ,	O
@@ -21136,6 +22021,7 @@ de	IMethod
 Friedmann	IMethod
 )	O
 .	O
+
 En	O
 pratique	O
 ,	O
@@ -21165,6 +22051,7 @@ un	O
 modèle	O
 cosmologique	O
 .	O
+
 Stevenia	B-Species
 est	O
 un	O
@@ -21188,6 +22075,7 @@ Christian	B-Person
 von	I-Person
 Steven	I-Person
 .	O
+
 Il	O
 comprend	O
 sept	O
@@ -21211,6 +22099,7 @@ de	O
 la	O
 Chine	B-Location
 .	O
+
 Edgard	B-Person
 Blochet	I-Person
 ,	O
@@ -21242,6 +22131,7 @@ histoire	O
 des	O
 religions	O
 .	O
+
 Pierre	B-Person
 Rezeau	I-Person
 (	O
@@ -21259,6 +22149,7 @@ guerre	B-Event
 de	I-Event
 Vendée	I-Event
 .	O
+
 La	O
 maison	B-Product
 Nicol	I-Product
@@ -21288,6 +22179,7 @@ en	O
 région	O
 Occitanie	B-Location
 .	O
+
 Elle	O
 fait	O
 l	O
@@ -21308,6 +22200,7 @@ le	O
 septembre	I-Time
 1964	I-Time
 .	O
+
 Jan	B-Person
 Lauwers	I-Person
 (	O
@@ -21331,6 +22224,7 @@ de	O
 à	O
 1967	B-Time
 .	O
+
 Il	O
 a	O
 notamment	O
@@ -21347,6 +22241,7 @@ la	O
 Coupe	B-Reward
 Sels	I-Reward
 .	O
+
 Rosanna	B-Person
 Carteri	I-Person
 (	O
@@ -21372,6 +22267,7 @@ années	O
 et	O
 1960	B-Time
 .	O
+
 Cadell	B-Person
 ap	I-Person
 Gruffydd	I-Person
@@ -21388,6 +22284,7 @@ de	O
 à	O
 1153	B-Time
 .	O
+
 Saint	B-Location
 -	I-Location
 Germain	I-Location
@@ -21414,6 +22311,7 @@ Bourgogne	B-Location
 Franche	I-Location
 Comté	I-Location
 .	O
+
 Michel	B-Person
 Bataille	I-Person
 ,	O
@@ -21437,6 +22335,7 @@ un	O
 écrivain	B-LitteratureFunction
 français	B-Nation
 .	O
+
 Arne	B-Person
 Hovde	I-Person
 (	O
@@ -21463,6 +22362,7 @@ sauteur	B-SportFunction
 ski	I-SportFunction
 norvégien	B-Nation
 .	O
+
 L	O
 '	O
 aéroport	B-Facility
@@ -21492,6 +22392,7 @@ Val	B-Location
 d	I-Location
 Or	I-Location
 .	O
+
 Lelio	B-Person
 Basso	I-Person
 (	O
@@ -21532,6 +22433,7 @@ permanent	I-Organization
 des	I-Organization
 peuples	I-Organization
 .	O
+
 Vrata	B-Location
 est	O
 une	O
@@ -21552,6 +22454,7 @@ Primorje	I-Location
 Gorski	I-Location
 Kotar	I-Location
 .	O
+
 En	O
 2001	B-Time
 ,	O
@@ -21561,6 +22464,7 @@ comptait	O
 xx	O
 habitants	O
 .	O
+
 Alim	B-Product
 le	I-Product
 tanneur	I-Product
@@ -21575,6 +22479,7 @@ d	O
 heroic	O
 fantasy	O
 .	O
+
 Andrei	B-Person
 Rǎdulescu	I-Person
 ,	O
@@ -21594,6 +22499,7 @@ roumain	B-Nation
 de	O
 football	O
 .	O
+
 Il	O
 débuta	O
 en	O
@@ -21607,6 +22513,7 @@ de	O
 à	O
 1970	B-Time
 .	O
+
 Passagen	B-Organization
 Verlag	I-Organization
 est	O
@@ -21624,6 +22531,7 @@ par	O
 Peter	B-Person
 Engelmann	I-Person
 .	O
+
 Le	O
 pâté	O
 aux	O
@@ -21634,6 +22542,7 @@ spécialité	O
 pâtissière	O
 angevine	O
 .	O
+
 Thomas	B-Person
 Clark	I-Person
 Durant	I-Person
@@ -21666,6 +22575,7 @@ de	I-Facility
 fer	I-Facility
 transcontinental	I-Facility
 .	O
+
 Mark	B-Person
 A	I-Person
 .	I-Person
@@ -21695,6 +22605,7 @@ sur	O
 glace	O
 canadien	B-Nation
 .	O
+
 Tholus	O
 (	O
 pluriel	O
@@ -21716,6 +22627,7 @@ ou	O
 une	O
 coupole	O
 .	O
+
 Sur	O
 Mars	B-Location
 ,	O
@@ -21725,6 +22637,7 @@ Io	B-Location
 ,	O
 etc	O
 .	O
+
 ,	O
 on	O
 appelle	O
@@ -21754,6 +22667,7 @@ volcans	O
 boucliers	O
 )	O
 .	O
+
 Ligron	B-Location
 est	O
 une	O
@@ -21779,6 +22693,7 @@ de	O
 505	B-Measure
 habitants	I-Measure
 .	O
+
 Grunnvåg	B-Location
 est	O
 une	O
@@ -21791,6 +22706,7 @@ Troms	I-Location
 en	O
 Norvège	B-Location
 .	O
+
 Le	O
 genre	O
 Pseudodirphia	B-Species
@@ -21804,6 +22720,7 @@ famille	O
 des	O
 Saturniidae	B-Species
 .	O
+
 Perisoreus	B-Bird
 Perisoreus	B-Bird
 est	O
@@ -21853,3 +22770,4 @@ Shreveport	B-Location
 Louisiane	B-Location
 )	O
 .	O
+
